@@ -1,0 +1,177 @@
+/* blog single page*/
+
+.blog-content-wrapper .entry-headder{
+  text-align: center;
+  margin-bottom: 55px;
+  padding-bottom: 35px;
+  position: relative;
+  background-image: url(https://amitvoka.github.io/TestWordPress/wp-content/themes/travelkit/images/heading-bg.png);
+  background-repeat: no-repeat;
+  background-position: center bottom;
+}
+.blog-content-wrapper .entry-headder:before {
+  left: 50%;
+  margin-left: -265px;
+}
+.blog-content-wrapper .entry-headder:before{
+  position: absolute;
+  content: '';
+  bottom: 2px;
+  width: 215px;
+  height: 1px;
+  background-color: #e8e8e8;
+}
+.blog-content-wrapper .entry-headder:after {
+  left: 78%;
+  margin-left: -265px;
+}
+.blog-content-wrapper .entry-headder:after{
+  position: absolute;
+  content: '';
+  bottom: 2px;
+  width: 215px;
+  height: 1px;
+  background-color: #e8e8e8;
+}
+
+.blog-content-wrapper{
+  background: #fff;
+}
+
+.blog-content-wrapper h2.entry-title.blog-entry-title{
+	font-size: 34px;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #000;
+  margin-top: 0;
+}
+.blog-content-wrapper h1,
+.blog-content-wrapper h2,
+.blog-content-wrapper h3,
+.blog-content-wrapper h4,
+.blog-content-wrapper h5{
+  line-height: 1;
+}
+.single-post .blog-post-meta{
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 16px;
+}
+.blog-content-wrapper .entry-headder li{
+  display: inline-block;
+  padding-right: 10px;
+}
+.blog-content-wrapper .entry-headder li a{
+  color: #777;
+  padding-left: 8px;
+}
+.form-submit {
+  margin: 30px 0 0;
+  float: right;
+}
+
+.form-submit input[type=submit] {
+  background: #00aeef;
+  color: #fff;
+  border: none;
+}
+
+
+/* about page */
+
+.no-padding{
+  padding: 0;
+}
+
+.about-details {
+    margin-left: 14px;
+    min-height: 283px;
+}
+
+.about-details p{
+  line-height: 20px;
+}
+
+.about-details h2, .about-details h3, .about-details h4{
+    font-size: 32px;
+    line-height: 42px;
+    font-weight: bold;
+    color: #fff;
+    margin-bottom: 25px;
+}
+
+.travelket-bar {
+    padding-bottom: 35px;
+    margin-bottom: 10px;
+    position: relative;
+    background-image: url(https://amitvoka.github.io/TestWordPress/wp-content/themes/travelkit/images/about-bar.png);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    overflow: hidden;
+
+}
+
+.person-title {
+    font-size: 21px;
+    line-height: 25px;
+    font-weight: normal;
+    letter-spacing: 0px;
+}
+
+.social-icon a{
+  color: #e8e8e8;
+}
+
+.textwidget-area h2, .textwidget-area h3, .textwidget-area h4{
+    font-size: 21px;
+    line-height: 25px;
+    font-weight: 100;
+    letter-spacing: 0px;
+}
+
+.themeum-person-image{
+  overflow: hidden;
+  background: #000;
+}
+.themeum-person-image img{
+  transition: .3s;
+}
+.themeum-person-image img:hover {
+    opacity: .6;
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+    transition: .3s;
+}
+
+
+/* gellary */
+
+.conference-img{
+  overflow: hidden;
+   transition: .3s;
+}
+
+.conference-img img {
+    transition: .3s;
+}
+.conference-img img:hover {
+    opacity: .6;
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+}
+
+.conference-img a {
+    display: block;
+    overflow: hidden;
+    background: #000;
+    cursor: url(https://amitvoka.github.io/TestWordPress/wp-content/themes/travelkit/images/cursor_custom.png), auto;
+    transition: .3s;
+}
+
+
+/* Servies page */
+
+.vc_general.vc_cta3 {
+   border: inherit !important;
+   padding: 28px 0 0 0 !important;
+}

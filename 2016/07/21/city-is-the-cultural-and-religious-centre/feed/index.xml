@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Raring to start City is the cultural	</title>
+	<atom:link href="https://amitvoka.github.io/TestWordPress/2016/07/21/city-is-the-cultural-and-religious-centre/feed/" rel="self" type="application/rss+xml" />
+	<link>https://amitvoka.github.io/TestWordPress/2016/07/21/city-is-the-cultural-and-religious-centre/</link>
+	<description></description>
+	<lastBuildDate>
+	Mon, 03 Oct 2016 11:55:36 +0000	</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+			<item>
+				<title>
+				By: Mr WordPress				</title>
+				<link>https://amitvoka.github.io/TestWordPress/2016/07/21/city-is-the-cultural-and-religious-centre/#comment-2</link>
+		<dc:creator><![CDATA[Mr WordPress]]></dc:creator>
+		<pubDate>Thu, 21 Jul 2016 10:15:34 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.themeum.com/wordpress/travelkit/?p=1#comment-2</guid>
+					<description><![CDATA[Hi, this is a comment.
+To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them.]]></description>
+		<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
+To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them.</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

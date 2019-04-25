@@ -1,0 +1,4111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Themeum Core\n"
+"POT-Creation-Date: 2016-11-15 11:50+0600\n"
+"PO-Revision-Date: 2016-11-15 11:51+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/dashboard.php:7
+msgid "Themeum LMS Status"
+msgstr ""
+
+#: admin/dashboard.php:23
+msgid "Total Orders"
+msgstr ""
+
+#: admin/dashboard.php:28
+msgid "Pending Orders"
+msgstr ""
+
+#: admin/dashboard.php:33
+msgid "Courses"
+msgstr ""
+
+#: admin/dashboard.php:38
+msgid "Lessons"
+msgstr ""
+
+#: admin/dashboard.php:43
+msgid "Teachers"
+msgstr ""
+
+#: admin/dashboard.php:48
+msgid "Events"
+msgstr ""
+
+#: admin/menus.php:9
+msgid "General Settings"
+msgstr ""
+
+#: admin/menus.php:14
+msgid "Currency"
+msgstr ""
+
+#: admin/menus.php:18
+msgid "Australian Dollar($)"
+msgstr ""
+
+#: admin/menus.php:19
+msgid "Brazilian Real(R$)"
+msgstr ""
+
+#: admin/menus.php:20
+msgid "Canadian Dollar($)"
+msgstr ""
+
+#: admin/menus.php:21
+msgid "Czech Koruna(Kč)"
+msgstr ""
+
+#: admin/menus.php:22
+msgid "Danish Krone(kr.)"
+msgstr ""
+
+#: admin/menus.php:23
+msgid "Euro(€)"
+msgstr ""
+
+#: admin/menus.php:24
+msgid "Hong Kong Dollar(HK$)"
+msgstr ""
+
+#: admin/menus.php:25
+msgid "Hungarian Forint(Ft)"
+msgstr ""
+
+#: admin/menus.php:26
+msgid "Israeli New Sheqel(₪)"
+msgstr ""
+
+#: admin/menus.php:27
+msgid "Japanese Yen(¥)"
+msgstr ""
+
+#: admin/menus.php:28
+msgid "Malaysian Ringgit(RM)"
+msgstr ""
+
+#: admin/menus.php:29
+msgid "Mexican Peso(Mex$)"
+msgstr ""
+
+#: admin/menus.php:30
+msgid "Norwegian Krone(kr)"
+msgstr ""
+
+#: admin/menus.php:31
+msgid "New Zealand Dollar($)"
+msgstr ""
+
+#: admin/menus.php:32
+msgid "Philippine Peso(₱)"
+msgstr ""
+
+#: admin/menus.php:33
+msgid "Polish Zloty(zł)"
+msgstr ""
+
+#: admin/menus.php:34
+msgid "Pound Sterling(£)"
+msgstr ""
+
+#: admin/menus.php:35
+msgid "Russian Ruble(₽)"
+msgstr ""
+
+#: admin/menus.php:36
+msgid "Singapore Dollar($)"
+msgstr ""
+
+#: admin/menus.php:37
+msgid "Swedish Krona(kr)"
+msgstr ""
+
+#: admin/menus.php:38
+msgid "Swiss Franc(CHF)"
+msgstr ""
+
+#: admin/menus.php:39
+msgid "Taiwan New Dollar(角)"
+msgstr ""
+
+#: admin/menus.php:40
+msgid "Thai Baht(฿)"
+msgstr ""
+
+#: admin/menus.php:41
+msgid "Turkish Lira(TRY)"
+msgstr ""
+
+#: admin/menus.php:42
+msgid "U.S. Dollar($)"
+msgstr ""
+
+#: admin/menus.php:52
+msgid "Payment Success Return Page"
+msgstr ""
+
+#: admin/menus.php:73
+msgid "Payment Cancel Return Page"
+msgstr ""
+
+#: admin/menus.php:99
+msgid "Paypal"
+msgstr ""
+
+#: admin/menus.php:100
+msgid ""
+"PayPal standard works by sending customers to PayPal where they can enter "
+"their payment information."
+msgstr ""
+
+#: admin/menus.php:105
+msgid "Paypal Email Address"
+msgstr ""
+
+#: admin/menus.php:110 admin/menus.php:116 admin/menus.php:120
+msgid "PayPal"
+msgstr ""
+
+#: admin/menus.php:116 admin/menus.php:118
+msgid "PayPal Sandbox"
+msgstr ""
+
+#: admin/menus.php:135
+msgid "Export Order Data"
+msgstr ""
+
+#: admin/menus.php:144
+msgid "Themeum Settings"
+msgstr ""
+
+#: admin/menus.php:144
+msgid "Settings"
+msgstr ""
+
+#: admin/menus.php:145 admin/menus.php:146
+msgid "All Orders"
+msgstr ""
+
+#: customizer/controls/export.php:18
+msgid "Export"
+msgstr ""
+
+#: customizer/controls/import.php:19
+msgid "Import"
+msgstr ""
+
+#: customizer/customizer.php:76
+msgid ""
+"Success! Your theme data successfully imported. Page will be reloaded within "
+"2 sec."
+msgstr ""
+
+#: customizer/customizer.php:77
+msgid "Error! Your theme data importing failed."
+msgstr ""
+
+#: customizer/customizer.php:78
+msgid "Error! Please upload a file."
+msgstr ""
+
+#: customizer/customizer.php:235
+msgid "Import/Export"
+msgstr ""
+
+#: customizer/customizer.php:236
+msgid "Import Export Option Data"
+msgstr ""
+
+#: customizer/customizer.php:419
+msgid "Travelkit Theme Options"
+msgstr ""
+
+#: customizer/customizer.php:425 customizer/customizer.php:426
+msgid "Topbar Settings"
+msgstr ""
+
+#: customizer/customizer.php:432
+msgid "Topbar Enable/Disable"
+msgstr ""
+
+#: customizer/customizer.php:439
+msgid "Topbar Email"
+msgstr ""
+
+#: customizer/customizer.php:446
+msgid "Topbar Phone Number"
+msgstr ""
+
+#: customizer/customizer.php:453
+msgid "Topbar With Social"
+msgstr ""
+
+#: customizer/customizer.php:460
+msgid "Topbar background color"
+msgstr ""
+
+#: customizer/customizer.php:467
+msgid "Topbar text color"
+msgstr ""
+
+#: customizer/customizer.php:474
+msgid "Topber border bottom color"
+msgstr ""
+
+#: customizer/customizer.php:484 customizer/customizer.php:485
+msgid "Header Settings"
+msgstr ""
+
+#: customizer/customizer.php:491 customizer/customizer.php:555
+msgid "Select Header Style"
+msgstr ""
+
+#: customizer/customizer.php:503
+msgid "Header background Color"
+msgstr ""
+
+#: customizer/customizer.php:510
+msgid "Header border bottom color"
+msgstr ""
+
+#: customizer/customizer.php:517
+msgid "Header Top Padding"
+msgstr ""
+
+#: customizer/customizer.php:524
+msgid "Header Bottom Padding"
+msgstr ""
+
+#: customizer/customizer.php:531
+msgid "Sticky Header"
+msgstr ""
+
+#: customizer/customizer.php:538
+msgid "Sticky background Color"
+msgstr ""
+
+#: customizer/customizer.php:548 customizer/customizer.php:549
+msgid "All Logo & favicon"
+msgstr ""
+
+#: customizer/customizer.php:566
+msgid "Upload Logo"
+msgstr ""
+
+#: customizer/customizer.php:573
+msgid "Logo Width"
+msgstr ""
+
+#: customizer/customizer.php:579
+msgid "Logo Height"
+msgstr ""
+
+#: customizer/customizer.php:585
+msgid "Use your Custom logo text"
+msgstr ""
+
+#: customizer/customizer.php:597
+msgid "Sub Header Banner"
+msgstr ""
+
+#: customizer/customizer.php:598
+msgid "sub header banner"
+msgstr ""
+
+#: customizer/customizer.php:604
+msgid "Sub-Header Padding Top"
+msgstr ""
+
+#: customizer/customizer.php:611
+msgid "Sub-Header Padding Bottom"
+msgstr ""
+
+#: customizer/customizer.php:618
+msgid "Sub-Header Margin Bottom"
+msgstr ""
+
+#: customizer/customizer.php:625
+msgid "Sub-Header Background Image"
+msgstr ""
+
+#: customizer/customizer.php:631
+msgid "Sub-Header Background Color"
+msgstr ""
+
+#: customizer/customizer.php:638
+msgid "Sub-Header Overlayer Color"
+msgstr ""
+
+#: customizer/customizer.php:645
+msgid "Title Settings"
+msgstr ""
+
+#: customizer/customizer.php:651
+msgid "Header Title Enable"
+msgstr ""
+
+#: customizer/customizer.php:658
+msgid "Header Title Font Size"
+msgstr ""
+
+#: customizer/customizer.php:665
+msgid "Header Title Color"
+msgstr ""
+
+#: customizer/customizer.php:672
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: customizer/customizer.php:678
+msgid "Breadcrumb Enable"
+msgstr ""
+
+#: customizer/customizer.php:685
+msgid "Breadcrumb Text Color"
+msgstr ""
+
+#: customizer/customizer.php:692
+msgid "Breadcrumb Link Color"
+msgstr ""
+
+#: customizer/customizer.php:699
+msgid "Breadcrumb Link Hover Color"
+msgstr ""
+
+#: customizer/customizer.php:709 customizer/customizer.php:710
+msgid "Currency Setting"
+msgstr ""
+
+#: customizer/customizer.php:716
+msgid "Package Currency"
+msgstr ""
+
+#: customizer/customizer.php:723
+msgid "Other Currency"
+msgstr ""
+
+#: customizer/customizer.php:733 customizer/customizer.php:734
+msgid "Flight Setting"
+msgstr ""
+
+#: customizer/customizer.php:740
+msgid "Flight API"
+msgstr ""
+
+#: customizer/customizer.php:747
+msgid "Flight Market"
+msgstr ""
+
+#: customizer/customizer.php:991
+msgid "Flight Currency"
+msgstr ""
+
+#: customizer/customizer.php:1158 customizer/customizer.php:1159
+msgid "Typography Setting"
+msgstr ""
+
+#: customizer/customizer.php:1167 customizer/customizer.php:1217
+msgid "Select Google Font"
+msgstr ""
+
+#: customizer/customizer.php:1177
+msgid "Body Font Size"
+msgstr ""
+
+#: customizer/customizer.php:1183
+msgid "Body Font Line Height"
+msgstr ""
+
+#: customizer/customizer.php:1189
+msgid "Body Font Weight"
+msgstr ""
+
+#: customizer/customizer.php:1208
+msgid "Body Font Color"
+msgstr ""
+
+#: customizer/customizer.php:1227
+msgid "Menu Font Size"
+msgstr ""
+
+#: customizer/customizer.php:1233
+msgid "Menu Font Line Height"
+msgstr ""
+
+#: customizer/customizer.php:1239
+msgid "Menu Font Weight"
+msgstr ""
+
+#: customizer/customizer.php:1258
+msgid "Menu Font Color"
+msgstr ""
+
+#: customizer/customizer.php:1268
+msgid "Heading1 Google Font"
+msgstr ""
+
+#: customizer/customizer.php:1278
+msgid "Heading1 Font Size"
+msgstr ""
+
+#: customizer/customizer.php:1284
+msgid "Heading1 Font Line Height"
+msgstr ""
+
+#: customizer/customizer.php:1290
+msgid "Heading1 Font Weight"
+msgstr ""
+
+#: customizer/customizer.php:1309
+msgid "Heading1 Font Color"
+msgstr ""
+
+#: customizer/customizer.php:1318
+msgid "Heading2 Google Font"
+msgstr ""
+
+#: customizer/customizer.php:1328
+msgid "Heading2 Font Size"
+msgstr ""
+
+#: customizer/customizer.php:1334
+msgid "Heading2 Font Line Height"
+msgstr ""
+
+#: customizer/customizer.php:1340
+msgid "Heading2 Font Weight"
+msgstr ""
+
+#: customizer/customizer.php:1359
+msgid "Heading2 Font Color"
+msgstr ""
+
+#: customizer/customizer.php:1368
+msgid "Heading3 Google Font"
+msgstr ""
+
+#: customizer/customizer.php:1378
+msgid "Heading3 Font Size"
+msgstr ""
+
+#: customizer/customizer.php:1384
+msgid "Heading3 Font Line Height"
+msgstr ""
+
+#: customizer/customizer.php:1390
+msgid "Heading3 Font Weight"
+msgstr ""
+
+#: customizer/customizer.php:1409
+msgid "Heading3 Font Color"
+msgstr ""
+
+#: customizer/customizer.php:1418
+msgid "Heading4 Google Font"
+msgstr ""
+
+#: customizer/customizer.php:1428
+msgid "Heading4 Font Size"
+msgstr ""
+
+#: customizer/customizer.php:1434
+msgid "Heading4 Font Line Height"
+msgstr ""
+
+#: customizer/customizer.php:1440
+msgid "Heading4 Font Weight"
+msgstr ""
+
+#: customizer/customizer.php:1459
+msgid "Heading4 Font Color"
+msgstr ""
+
+#: customizer/customizer.php:1468
+msgid "Heading5 Google Font"
+msgstr ""
+
+#: customizer/customizer.php:1478
+msgid "Heading5 Font Size"
+msgstr ""
+
+#: customizer/customizer.php:1484
+msgid "Heading5 Font Line Height"
+msgstr ""
+
+#: customizer/customizer.php:1490
+msgid "Heading5 Font Weight"
+msgstr ""
+
+#: customizer/customizer.php:1509
+msgid "Heading5 Font Color"
+msgstr ""
+
+#: customizer/customizer.php:1520 customizer/customizer.php:1521
+msgid "Package Setting"
+msgstr ""
+
+#: customizer/customizer.php:1527
+msgid "Number of Post Show on the Category Listing Page"
+msgstr ""
+
+#: customizer/customizer.php:1537 customizer/customizer.php:1538
+msgid "Layout & Styling"
+msgstr ""
+
+#: customizer/customizer.php:1544 customizer/customizer.php:1568
+#: customizer/customizer.php:1580 customizer/customizer.php:1593
+#: customizer/customizer.php:1604
+msgid "Select BoxWidth of FullWidth"
+msgstr ""
+
+#: customizer/customizer.php:1549
+msgid "BoxWidth"
+msgstr ""
+
+#: customizer/customizer.php:1550
+msgid "FullWidth"
+msgstr ""
+
+#: customizer/customizer.php:1555
+msgid "Body background Color"
+msgstr ""
+
+#: customizer/customizer.php:1562
+msgid "Body background image"
+msgstr ""
+
+#: customizer/customizer.php:1573
+msgid "Scroll"
+msgstr ""
+
+#: customizer/customizer.php:1574
+msgid "Fixed"
+msgstr ""
+
+#: customizer/customizer.php:1575
+msgid "Inherit"
+msgstr ""
+
+#: customizer/customizer.php:1585
+msgid "Repeat"
+msgstr ""
+
+#: customizer/customizer.php:1586
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: customizer/customizer.php:1587
+msgid "Repeat Vertically"
+msgstr ""
+
+#: customizer/customizer.php:1588
+msgid "No Repeat"
+msgstr ""
+
+#: customizer/customizer.php:1598
+msgid "Cover"
+msgstr ""
+
+#: customizer/customizer.php:1599
+msgid "Contain"
+msgstr ""
+
+#: customizer/customizer.php:1609
+msgid "left top"
+msgstr ""
+
+#: customizer/customizer.php:1610
+msgid "left center"
+msgstr ""
+
+#: customizer/customizer.php:1611
+msgid "left bottom"
+msgstr ""
+
+#: customizer/customizer.php:1612
+msgid "right top"
+msgstr ""
+
+#: customizer/customizer.php:1613
+msgid "right center"
+msgstr ""
+
+#: customizer/customizer.php:1614
+msgid "right bottom"
+msgstr ""
+
+#: customizer/customizer.php:1615
+msgid "center top"
+msgstr ""
+
+#: customizer/customizer.php:1616
+msgid "center center"
+msgstr ""
+
+#: customizer/customizer.php:1617
+msgid "center bottom"
+msgstr ""
+
+#: customizer/customizer.php:1622
+msgid "Preset Layout"
+msgstr ""
+
+#: customizer/customizer.php:1638
+msgid "Set Custom Color"
+msgstr ""
+
+#: customizer/customizer.php:1645
+msgid "Major Color"
+msgstr ""
+
+#: customizer/customizer.php:1652
+msgid "Hover Color"
+msgstr ""
+
+#: customizer/customizer.php:1660
+msgid "Bottom background Color"
+msgstr ""
+
+#: customizer/customizer.php:1667
+msgid "Footer background Color"
+msgstr ""
+
+#: customizer/customizer.php:1675
+msgid "Footer Text Color"
+msgstr ""
+
+#: customizer/customizer.php:1683
+msgid "Button Color Settings"
+msgstr ""
+
+#: customizer/customizer.php:1689 customizer/customizer.php:1755
+msgid "Background Color"
+msgstr ""
+
+#: customizer/customizer.php:1697 customizer/customizer.php:1776
+msgid "Hover Background Color"
+msgstr ""
+
+#: customizer/customizer.php:1704 customizer/customizer.php:1727
+#: customizer/customizer.php:1762
+msgid "Text Color"
+msgstr ""
+
+#: customizer/customizer.php:1711 customizer/customizer.php:1783
+msgid "Hover Text Color"
+msgstr ""
+
+#: customizer/customizer.php:1721
+msgid "Menu Color Settings"
+msgstr ""
+
+#: customizer/customizer.php:1742
+msgid "Bracket Color"
+msgstr ""
+
+#: customizer/customizer.php:1749
+msgid "Sub-Menu Color Settings"
+msgstr ""
+
+#: customizer/customizer.php:1769
+msgid "Border Color"
+msgstr ""
+
+#: customizer/customizer.php:1796 customizer/customizer.php:1797
+msgid "Social Media"
+msgstr ""
+
+#: customizer/customizer.php:1803 customizer/customizer.php:1925
+msgid "Add Facebook URL"
+msgstr ""
+
+#: customizer/customizer.php:1810 customizer/customizer.php:1932
+msgid "Add Twitter URL"
+msgstr ""
+
+#: customizer/customizer.php:1817
+msgid "Add Goole Plus URL"
+msgstr ""
+
+#: customizer/customizer.php:1824 customizer/customizer.php:1946
+msgid "Add Pinterest URL"
+msgstr ""
+
+#: customizer/customizer.php:1831 customizer/customizer.php:1953
+msgid "Add Youtube URL"
+msgstr ""
+
+#: customizer/customizer.php:1838 customizer/customizer.php:1960
+msgid "Add Linkedin URL"
+msgstr ""
+
+#: customizer/customizer.php:1845 customizer/customizer.php:1974
+msgid "Add Instagram URL"
+msgstr ""
+
+#: customizer/customizer.php:1852 customizer/customizer.php:1967
+msgid "Add Dribbble URL"
+msgstr ""
+
+#: customizer/customizer.php:1859
+msgid "Add Behance URL"
+msgstr ""
+
+#: customizer/customizer.php:1866
+msgid "Add Flickr URL"
+msgstr ""
+
+#: customizer/customizer.php:1873
+msgid "Add Vk URL"
+msgstr ""
+
+#: customizer/customizer.php:1880
+msgid "Add Skype URL"
+msgstr ""
+
+#: customizer/customizer.php:1890 customizer/customizer.php:1891
+msgid "Coming Soon"
+msgstr ""
+
+#: customizer/customizer.php:1898
+msgid "Enable Coming Soon"
+msgstr ""
+
+#: customizer/customizer.php:1905
+msgid "Upload Coming Soon Page Background"
+msgstr ""
+
+#: customizer/customizer.php:1911
+msgid "Coming Soon date"
+msgstr ""
+
+#: customizer/customizer.php:1918
+msgid "Add mailchimp Form Shortcode Here"
+msgstr ""
+
+#: customizer/customizer.php:1939
+msgid "Add Google Plus URL"
+msgstr ""
+
+#: customizer/customizer.php:1983
+msgid "404 Page"
+msgstr ""
+
+#: customizer/customizer.php:1984
+msgid "404 page background and text settings"
+msgstr ""
+
+#: customizer/customizer.php:1990
+msgid "Upload 404 Page Background Image"
+msgstr ""
+
+#: customizer/customizer.php:1996
+msgid "404 Page Title"
+msgstr ""
+
+#: customizer/customizer.php:1999
+msgid "Page not Found."
+msgstr ""
+
+#: customizer/customizer.php:2003
+msgid "404 Page Description"
+msgstr ""
+
+#: customizer/customizer.php:2006
+msgid ""
+"The page you are looking for was moved, removed, renamed or might never "
+"existed.."
+msgstr ""
+
+#: customizer/customizer.php:2010
+msgid "404 Button Text"
+msgstr ""
+
+#: customizer/customizer.php:2013
+msgid "Go Back Home"
+msgstr ""
+
+#: customizer/customizer.php:2019 customizer/customizer.php:2020
+msgid "Blog Setting"
+msgstr ""
+
+#: customizer/customizer.php:2026
+msgid "Select Blog Column"
+msgstr ""
+
+#: customizer/customizer.php:2039
+msgid "Enable Blog Date"
+msgstr ""
+
+#: customizer/customizer.php:2046
+msgid "Enable Blog Author"
+msgstr ""
+
+#: customizer/customizer.php:2053
+msgid "Enable Blog Category"
+msgstr ""
+
+#: customizer/customizer.php:2060
+msgid "Enable Comment"
+msgstr ""
+
+#: customizer/customizer.php:2067
+msgid "Enable Single post comment"
+msgstr ""
+
+#: customizer/customizer.php:2074
+msgid "Enable single post tags"
+msgstr ""
+
+#: customizer/customizer.php:2081
+msgid "Enable Post navigation"
+msgstr ""
+
+#: customizer/customizer.php:2088
+msgid "Enable post content"
+msgstr ""
+
+#: customizer/customizer.php:2095
+msgid "Post character Limit"
+msgstr ""
+
+#: customizer/customizer.php:2102
+msgid "Enable Blog Readmore"
+msgstr ""
+
+#: customizer/customizer.php:2109
+msgid "Continue Reading"
+msgstr ""
+
+#: customizer/customizer.php:2119 customizer/customizer.php:2120
+msgid "Footer Setting"
+msgstr ""
+
+#: customizer/customizer.php:2126
+msgid "Select Bottom Style"
+msgstr ""
+
+#: customizer/customizer.php:2137
+msgid "Select Bottom Column"
+msgstr ""
+
+#: customizer/customizer.php:2150
+msgid "Enable Footer Share"
+msgstr ""
+
+#: customizer/customizer.php:2157
+msgid "Enable Copyright Text"
+msgstr ""
+
+#: customizer/customizer.php:2164
+msgid "Copyright Text"
+msgstr ""
+
+#: customizer/customizer.php:2174 customizer/customizer.php:2175
+msgid "Help Settings"
+msgstr ""
+
+#: customizer/customizer.php:2182
+msgid "URL control"
+msgstr ""
+
+#: customizer/customizer.php:2190
+msgid "Range control"
+msgstr ""
+
+#: customizer/customizer.php:2197
+msgid "Single Checkbox control"
+msgstr ""
+
+#: customizer/customizer.php:2204
+msgid "Textarea control"
+msgstr ""
+
+#: customizer/customizer.php:2211
+msgid "Radio control"
+msgstr ""
+
+#: customizer/customizer.php:2223
+msgid "Multi-Select control"
+msgstr ""
+
+#: customizer/customizer.php:2239
+msgid "RGBA Color control"
+msgstr ""
+
+#: customizer/customizer.php:2247
+msgid "Upload control"
+msgstr ""
+
+#: customizer/customizer.php:2253
+msgid "Radio Button control"
+msgstr ""
+
+#: customizer/customizer.php:2266
+msgid "Checkbox Button control"
+msgstr ""
+
+#: customizer/customizer.php:2278
+msgid "Checkbox Image control"
+msgstr ""
+
+#: customizer/customizer.php:2290
+msgid "Switch control"
+msgstr ""
+
+#: customizer/customizer.php:2297
+msgid "Color Palette control"
+msgstr ""
+
+#: payment/paypal-button.php:26
+msgid "Check Out Via PayPal"
+msgstr ""
+
+#: payment/paypal-button.php:49
+msgid "paypal"
+msgstr ""
+
+#: payment/paypal-button.php:56
+#, php-format
+msgid "Generate a form-tag for a submit button. For more details, see %s."
+msgstr ""
+
+#: payment/paypal-button.php:58
+msgid "http://contactform7.com/submit-button/"
+msgstr ""
+
+#: payment/paypal-button.php:58
+msgid "Submit Button"
+msgstr ""
+
+#: payment/paypal-button.php:68
+msgid "Label"
+msgstr ""
+
+#: payment/paypal-button.php:73
+msgid "Id attribute"
+msgstr ""
+
+#: payment/paypal-button.php:78
+msgid "Class attribute"
+msgstr ""
+
+#: payment/paypal-button.php:91
+msgid "Insert Tag"
+msgstr ""
+
+#: payment/themeum_payment.php:19
+msgid "Course Name"
+msgstr ""
+
+#: payment/themeum_payment.php:20 payment/themeum_payment.php:75
+msgid "Product ID"
+msgstr ""
+
+#: payment/themeum_payment.php:21 payment/themeum_payment.php:74
+#: post-type/meta_box.php:1211 post-type/meta_box.php:1321
+msgid "User ID"
+msgstr ""
+
+#: payment/themeum_payment.php:22 payment/themeum_payment.php:76
+#: payment/themeum_payment.php:192 post-type/meta_box.php:637
+#: post-type/meta_box.php:639 post-type/meta_box.php:987
+#: post-type/meta_box.php:989
+msgid "Price"
+msgstr ""
+
+#: payment/themeum_payment.php:23 payment/themeum_payment.php:77
+#: post-type/meta_box.php:1230 post-type/meta_box.php:1340
+msgid "Payment ID"
+msgstr ""
+
+#: payment/themeum_payment.php:24 post-type/meta_box.php:1262
+#: post-type/meta_box.php:1372
+msgid "Order Status"
+msgstr ""
+
+#: payment/themeum_payment.php:78
+msgid "themeum_status_all"
+msgstr ""
+
+#: payment/themeum_payment.php:192
+msgid "Product Name"
+msgstr ""
+
+#: payment/themeum_payment.php:192 payment/themeum_payment.php:196
+#: post-type/meta-box/inc/fields/file-input.php:51
+msgid "Remove"
+msgstr ""
+
+#: payment/themeum_payment.php:242
+msgid "Continue"
+msgstr ""
+
+#: payment/themeum_payment.php:244
+msgid "Warning!"
+msgstr ""
+
+#: payment/themeum_payment.php:244
+msgid "Please Enable PayPal standard for Checkout."
+msgstr ""
+
+#: payment/themeum_payment.php:247
+msgid "Remove All"
+msgstr ""
+
+#: payment/themeum_payment.php:249
+msgid "Payment option"
+msgstr ""
+
+#: payment/themeum_payment.php:253
+msgid "Login First To Checkout."
+msgstr ""
+
+#: post-type/hotel.php:24
+msgctxt "Hotels"
+msgid "Hotels"
+msgstr ""
+
+#: post-type/hotel.php:25
+msgctxt "Hotel"
+msgid "Hotel"
+msgstr ""
+
+#: post-type/hotel.php:26
+msgid "Hotels"
+msgstr ""
+
+#: post-type/hotel.php:27
+msgid "Parent Hotel:"
+msgstr ""
+
+#: post-type/hotel.php:28
+msgid "All Hotels"
+msgstr ""
+
+#: post-type/hotel.php:29
+msgid "View Hotel"
+msgstr ""
+
+#: post-type/hotel.php:30
+msgid "Add New Hotel"
+msgstr ""
+
+#: post-type/hotel.php:31
+msgid "New Hotel"
+msgstr ""
+
+#: post-type/hotel.php:32
+msgid "Edit Hotel"
+msgstr ""
+
+#: post-type/hotel.php:33
+msgid "Update Hotel"
+msgstr ""
+
+#: post-type/hotel.php:34
+msgid "Search Hotel"
+msgstr ""
+
+#: post-type/hotel.php:35 post-type/order.php:36 post-type/package.php:35
+#: post-type/photo-gallery.php:33 post-type/room-type.php:35
+#: post-type/schedule.php:36 post-type/vehicle.php:35 post-type/vehicle.php:68
+msgid "No article found"
+msgstr ""
+
+#: post-type/hotel.php:36 post-type/order.php:37 post-type/package.php:36
+#: post-type/photo-gallery.php:34 post-type/room-type.php:36
+#: post-type/schedule.php:37 post-type/vehicle.php:36 post-type/vehicle.php:69
+msgid "No article found in Trash"
+msgstr ""
+
+#: post-type/hotel.php:73
+#, php-format
+msgid "Hotel updated. <a href=\"%s\">View Hotel</a>"
+msgstr ""
+
+#: post-type/hotel.php:74 post-type/order.php:79 post-type/package.php:74
+#: post-type/photo-gallery.php:72 post-type/room-type.php:74
+#: post-type/schedule.php:74 post-type/vehicle.php:107
+msgid "Custom field updated."
+msgstr ""
+
+#: post-type/hotel.php:75 post-type/order.php:80 post-type/package.php:75
+#: post-type/photo-gallery.php:73 post-type/room-type.php:75
+#: post-type/schedule.php:75 post-type/vehicle.php:108
+msgid "Custom field deleted."
+msgstr ""
+
+#: post-type/hotel.php:76
+msgid "Hotel updated."
+msgstr ""
+
+#: post-type/hotel.php:77
+#, php-format
+msgid "Hotel restored to revision from %s"
+msgstr ""
+
+#: post-type/hotel.php:78
+#, php-format
+msgid "Hotel published. <a href=\"%s\">View Hotel</a>"
+msgstr ""
+
+#: post-type/hotel.php:79
+msgid "Hotel saved."
+msgstr ""
+
+#: post-type/hotel.php:80
+#, php-format
+msgid "Hotel submitted. <a target=\"_blank\" href=\"%s\">Preview Hotel</a>"
+msgstr ""
+
+#: post-type/hotel.php:81
+#, php-format
+msgid ""
+"Hotel scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview Hotel</a>"
+msgstr ""
+
+#: post-type/hotel.php:81 post-type/order.php:86 post-type/package.php:81
+#: post-type/photo-gallery.php:79 post-type/room-type.php:81
+#: post-type/schedule.php:81 post-type/vehicle.php:114
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: post-type/hotel.php:82
+#, php-format
+msgid "Hotel draft updated. <a target=\"_blank\" href=\"%s\">Preview Hotel</a>"
+msgstr ""
+
+#: post-type/hotel.php:100
+msgctxt "taxonomy general name"
+msgid "Hotel Categories"
+msgstr ""
+
+#: post-type/hotel.php:101
+msgctxt "taxonomy singular name"
+msgid "Hotel Category"
+msgstr ""
+
+#: post-type/hotel.php:102
+msgid "Search Hotel Category"
+msgstr ""
+
+#: post-type/hotel.php:103
+msgid "All Hotel Category"
+msgstr ""
+
+#: post-type/hotel.php:104
+msgid "Hotel Parent Category"
+msgstr ""
+
+#: post-type/hotel.php:105
+msgid "Hotel Parent Category:"
+msgstr ""
+
+#: post-type/hotel.php:106
+msgid "Edit Hotel Category"
+msgstr ""
+
+#: post-type/hotel.php:107
+msgid "Update Hotel Category"
+msgstr ""
+
+#: post-type/hotel.php:108
+msgid "Add New Hotel Category"
+msgstr ""
+
+#: post-type/hotel.php:109
+msgid "New Hotel Category Name"
+msgstr ""
+
+#: post-type/hotel.php:110
+msgid "Hotel Category"
+msgstr ""
+
+#: post-type/hotel.php:137
+msgctxt "taxonomy general name"
+msgid "Hotel Locations"
+msgstr ""
+
+#: post-type/hotel.php:138
+msgctxt "taxonomy singular name"
+msgid "Hotel Location"
+msgstr ""
+
+#: post-type/hotel.php:139
+msgid "Search Hotel Location"
+msgstr ""
+
+#: post-type/hotel.php:140
+msgid "All Hotel Location"
+msgstr ""
+
+#: post-type/hotel.php:141
+msgid "Hotel Parent Location"
+msgstr ""
+
+#: post-type/hotel.php:142
+msgid "Hotel Parent Location:"
+msgstr ""
+
+#: post-type/hotel.php:143
+msgid "Edit Hotel Location"
+msgstr ""
+
+#: post-type/hotel.php:144
+msgid "Update Hotel Location"
+msgstr ""
+
+#: post-type/hotel.php:145
+msgid "Add New Hotel Location"
+msgstr ""
+
+#: post-type/hotel.php:146
+msgid "New Hotel Location Name"
+msgstr ""
+
+#: post-type/hotel.php:147
+msgid "Hotel Location"
+msgstr ""
+
+#: post-type/hotel.php:175
+msgctxt "taxonomy general name"
+msgid "Hotel Tags"
+msgstr ""
+
+#: post-type/hotel.php:176
+msgctxt "taxonomy singular name"
+msgid "Hotel Tag"
+msgstr ""
+
+#: post-type/hotel.php:177
+msgid "Search Hotel Tag"
+msgstr ""
+
+#: post-type/hotel.php:178
+msgid "All Hotel Tag"
+msgstr ""
+
+#: post-type/hotel.php:179
+msgid "Hotel Parent Tag"
+msgstr ""
+
+#: post-type/hotel.php:180
+msgid "Hotel Parent Tag:"
+msgstr ""
+
+#: post-type/hotel.php:181
+msgid "Edit Hotel Tag"
+msgstr ""
+
+#: post-type/hotel.php:182
+msgid "Update Hotel Tag"
+msgstr ""
+
+#: post-type/hotel.php:183
+msgid "Add New Hotel Tag"
+msgstr ""
+
+#: post-type/hotel.php:184
+msgid "New Hotel Tag Name"
+msgstr ""
+
+#: post-type/hotel.php:185
+msgid "Hotel Tag"
+msgstr ""
+
+#: post-type/meta-box/inc/core.php:40
+msgid "Documentation"
+msgstr ""
+
+#: post-type/meta-box/inc/core.php:41
+msgid "Extensions"
+msgstr ""
+
+#: post-type/meta-box/inc/field.php:192
+msgid "+ Add more"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/autocomplete.php:23
+#: post-type/meta-box/inc/fields/autocomplete.php:87
+#: post-type/meta-box/inc/fields/autocomplete.php:104
+msgid "Delete"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/button.php:29
+msgid "Click me"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/checkbox.php:82
+msgid "Yes"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/checkbox.php:82
+msgid "No"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file-input.php:25
+msgid "Select File"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file-input.php:49
+#: post-type/meta-box/inc/fields/select.php:91
+msgid "Select"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:24
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:25
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:85
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:98
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:99
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:162
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:163
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/key-value.php:20
+msgid "Key"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/key-value.php:26
+msgid "Value"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/map.php:49
+msgid "Find Address"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/media.php:24
+msgctxt "media"
+msgid "+ Add Media"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/media.php:25
+msgctxt "media"
+msgid " file"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/media.php:26
+msgctxt "media"
+msgid " files"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/media.php:27
+msgctxt "media"
+msgid "Remove"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/media.php:28
+msgctxt "media"
+msgid "Edit"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/media.php:29
+msgctxt "media"
+msgid "View"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/media.php:30
+msgctxt "media"
+msgid "No Title"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/media.php:33
+msgctxt "media"
+msgid "Select Files"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/media.php:34
+msgctxt "media"
+msgid "Drop files here to upload"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/oembed.php:65
+msgid "Embed HTML not available."
+msgstr ""
+
+#: post-type/meta-box/inc/fields/oembed.php:81
+msgid "Preview"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/post.php:34
+msgid "Select a post"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/post.php:38
+#: post-type/meta-box/inc/fields/taxonomy.php:51
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/select-advanced.php:44
+msgid "Select an item"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/select.php:91
+msgid "All"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/select.php:91
+msgid "None"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/taxonomy.php:47
+msgid "Select a term"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/thickbox-image.php:53
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/user.php:34
+msgid "Select an user"
+msgstr ""
+
+#: post-type/meta-box/inc/validation.php:49
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: post-type/meta_box.php:58
+msgid "Post Quote Settings"
+msgstr ""
+
+#: post-type/meta_box.php:76
+msgid "Quote Text"
+msgstr ""
+
+#: post-type/meta_box.php:79
+msgid "Write Your Quote Here"
+msgstr ""
+
+#: post-type/meta_box.php:86
+msgid "Quote Author"
+msgstr ""
+
+#: post-type/meta_box.php:89
+msgid "Write Quote Author or Source"
+msgstr ""
+
+#: post-type/meta_box.php:104
+msgid "Post Link Settings"
+msgstr ""
+
+#: post-type/meta_box.php:122 vc-addons/feature-carousel.php:240
+#: vc-addons/themeum-button.php:86
+msgid "Link URL"
+msgstr ""
+
+#: post-type/meta_box.php:125
+msgid "Write Your Link"
+msgstr ""
+
+#: post-type/meta_box.php:139
+msgid "Post Audio Settings"
+msgstr ""
+
+#: post-type/meta_box.php:157
+msgid "Audio Embed Code"
+msgstr ""
+
+#: post-type/meta_box.php:160
+msgid "Write Your Audio Embed Code Here"
+msgstr ""
+
+#: post-type/meta_box.php:173
+msgid "Post Video Settings"
+msgstr ""
+
+#: post-type/meta_box.php:191
+msgid "Video Embed Code/ID"
+msgstr ""
+
+#: post-type/meta_box.php:194
+msgid "Write Your Vedio Embed Code/ID Here"
+msgstr ""
+
+#: post-type/meta_box.php:200
+msgid "Video Durations"
+msgstr ""
+
+#: post-type/meta_box.php:206
+msgid "Select Vedio Type/Source"
+msgstr ""
+
+#: post-type/meta_box.php:211
+msgid "Embed Code"
+msgstr ""
+
+#: post-type/meta_box.php:212 post-type/meta_box.php:875
+msgid "YouTube"
+msgstr ""
+
+#: post-type/meta_box.php:213 post-type/meta_box.php:876
+msgid "Vimeo"
+msgstr ""
+
+#: post-type/meta_box.php:228
+msgid "Post Gallery Settings"
+msgstr ""
+
+#: post-type/meta_box.php:245
+msgid "Gallery Image Upload"
+msgstr ""
+
+#: post-type/meta_box.php:264
+msgid "Page Settings"
+msgstr ""
+
+#: post-type/meta_box.php:278
+msgid "Upload Sub Title Banner Image"
+msgstr ""
+
+#: post-type/meta_box.php:285
+msgid "Upload Sub Title BG Color"
+msgstr ""
+
+#: post-type/meta_box.php:292
+msgid "Sub title"
+msgstr ""
+
+#: post-type/meta_box.php:294 vc-addons/feature-carousel.php:219
+#: vc-addons/themeum-slider2.php:278 vc-addons/themeum-slider2.php:280
+msgid "Sub Title"
+msgstr ""
+
+#: post-type/meta_box.php:310
+msgid "Additional Info Settings"
+msgstr ""
+
+#: post-type/meta_box.php:317 post-type/meta_box.php:319
+#: post-type/meta_box.php:682 post-type/meta_box.php:684
+#: post-type/meta_box.php:943 post-type/meta_box.php:945
+#: post-type/meta_box.php:1047
+msgid "Contact Form"
+msgstr ""
+
+#: post-type/meta_box.php:325 post-type/meta_box.php:327
+msgid "Check-in time"
+msgstr ""
+
+#: post-type/meta_box.php:333 post-type/meta_box.php:335
+msgid "Check-out time"
+msgstr ""
+
+#: post-type/meta_box.php:342 post-type/meta_box.php:344
+#: post-type/meta_box.php:613
+msgid "Duration"
+msgstr ""
+
+#: post-type/meta_box.php:350
+msgid "Room"
+msgstr ""
+
+#: post-type/meta_box.php:352
+msgid "Room Number"
+msgstr ""
+
+#: post-type/meta_box.php:358 post-type/meta_box.php:652
+#: post-type/meta_box.php:1001
+msgid "Help Info"
+msgstr ""
+
+#: post-type/meta_box.php:365 post-type/meta_box.php:659
+#: post-type/meta_box.php:1008
+msgid "Help Short Information"
+msgstr ""
+
+#: post-type/meta_box.php:367 post-type/meta_box.php:661
+#: post-type/meta_box.php:1010
+msgid "Short Information"
+msgstr ""
+
+#: post-type/meta_box.php:373 post-type/meta_box.php:375
+#: post-type/meta_box.php:667 post-type/meta_box.php:669
+#: post-type/meta_box.php:1016 post-type/meta_box.php:1018
+msgid "Contact Number"
+msgstr ""
+
+#: post-type/meta_box.php:380 post-type/meta_box.php:382
+#: post-type/meta_box.php:674 post-type/meta_box.php:676
+#: post-type/meta_box.php:1023 post-type/meta_box.php:1025
+msgid "Contact Email"
+msgstr ""
+
+#: post-type/meta_box.php:389
+msgid "Hotel Social Share"
+msgstr ""
+
+#: post-type/meta_box.php:395 post-type/meta_box.php:806
+#: vc-addons/themeum-persons.php:121
+msgid "Facebook URL"
+msgstr ""
+
+#: post-type/meta_box.php:401 post-type/meta_box.php:812
+#: vc-addons/themeum-persons.php:128
+msgid "Twitter URL"
+msgstr ""
+
+#: post-type/meta_box.php:407 post-type/meta_box.php:818
+#: vc-addons/themeum-persons.php:135
+msgid "Google Plus URL"
+msgstr ""
+
+#: post-type/meta_box.php:413 post-type/meta_box.php:824
+msgid "Youtube URL"
+msgstr ""
+
+#: post-type/meta_box.php:419 post-type/meta_box.php:830
+msgid "Instagram URL"
+msgstr ""
+
+#: post-type/meta_box.php:425 post-type/meta_box.php:836
+msgid "Website URL"
+msgstr ""
+
+#: post-type/meta_box.php:431 post-type/meta_box.php:437
+msgid "Hotel short note"
+msgstr ""
+
+#: post-type/meta_box.php:451
+msgid "Hotel Room Info Settings"
+msgstr ""
+
+#: post-type/meta_box.php:458
+msgid "Room Information"
+msgstr ""
+
+#: post-type/meta_box.php:464 post-type/meta_box.php:466
+#: vc-addons/themeum-package-search.php:174
+#: vc-addons/themeum-package-search.php:176
+#: vc-addons/themeum-package-search.php:452
+#: vc-addons/themeum-package-search.php:454
+#: vc-addons/themeum-package-search2.php:165
+#: vc-addons/themeum-package-search2.php:167
+msgid "Room Type"
+msgstr ""
+
+#: post-type/meta_box.php:469 vc-addons/themeum-package-search.php:165
+#: vc-addons/themeum-package-search.php:443
+#: vc-addons/themeum-package-search2.php:156
+msgid "Double Room"
+msgstr ""
+
+#: post-type/meta_box.php:470 vc-addons/themeum-package-search.php:166
+#: vc-addons/themeum-package-search.php:444
+#: vc-addons/themeum-package-search2.php:157
+msgid "Single Room"
+msgstr ""
+
+#: post-type/meta_box.php:471 vc-addons/themeum-package-search.php:167
+#: vc-addons/themeum-package-search.php:445
+#: vc-addons/themeum-package-search2.php:158
+msgid "Luxury Room"
+msgstr ""
+
+#: post-type/meta_box.php:472 vc-addons/themeum-package-search.php:168
+#: vc-addons/themeum-package-search.php:446
+#: vc-addons/themeum-package-search2.php:159
+msgid "General Room"
+msgstr ""
+
+#: post-type/meta_box.php:473 vc-addons/themeum-package-search.php:169
+#: vc-addons/themeum-package-search.php:447
+#: vc-addons/themeum-package-search2.php:160
+msgid "Family Room"
+msgstr ""
+
+#: post-type/meta_box.php:474 vc-addons/themeum-package-search.php:170
+#: vc-addons/themeum-package-search.php:448
+#: vc-addons/themeum-package-search2.php:161
+msgid "Deluxe Room"
+msgstr ""
+
+#: post-type/meta_box.php:480
+msgid "Room Price"
+msgstr ""
+
+#: post-type/meta_box.php:482
+msgid "Room Price Ex. $80"
+msgstr ""
+
+#: post-type/meta_box.php:487 post-type/meta_box.php:489
+msgid "Short Room Information"
+msgstr ""
+
+#: post-type/meta_box.php:494
+msgid "Room Gallery"
+msgstr ""
+
+#: post-type/meta_box.php:515
+msgid "Infomation"
+msgstr ""
+
+#: post-type/meta_box.php:523 post-type/meta_box.php:951
+msgid "Booking Info"
+msgstr ""
+
+#: post-type/meta_box.php:530 post-type/meta_box.php:958
+msgid "Book Now Button Text"
+msgstr ""
+
+#: post-type/meta_box.php:532 post-type/meta_box.php:960
+#: themeum-flight/themeum-flight.php:702
+#: vc-addons/popular-package-listing.php:68 vc-addons/popular-package.php:69
+#: vc-addons/popular-package.php:85 vc-addons/popular-package.php:106
+msgid "Book Now"
+msgstr ""
+
+#: post-type/meta_box.php:537 post-type/meta_box.php:965
+msgid "Disable Booking Button:"
+msgstr ""
+
+#: post-type/meta_box.php:544 post-type/meta_box.php:1031
+msgid "Why Choose Info"
+msgstr ""
+
+#: post-type/meta_box.php:551 post-type/meta_box.php:1038
+msgid "Why Choose List"
+msgstr ""
+
+#: post-type/meta_box.php:553 post-type/meta_box.php:1040
+msgid "Add Why Choose List"
+msgstr ""
+
+#: post-type/meta_box.php:560
+msgid "Gallery Info"
+msgstr ""
+
+#: post-type/meta_box.php:566
+msgid "Package Gallery Items"
+msgstr ""
+
+#: post-type/meta_box.php:578
+msgid "Package Additional Settings"
+msgstr ""
+
+#: post-type/meta_box.php:585 vc-addons/themeum-package-search.php:113
+#: vc-addons/themeum-package-search.php:114
+#: vc-addons/themeum-package-search.php:391
+#: vc-addons/themeum-package-search.php:392
+#: vc-addons/themeum-package-search2.php:104
+#: vc-addons/themeum-package-search2.php:105
+msgid "Check-in date"
+msgstr ""
+
+#: post-type/meta_box.php:587
+msgid "Check in"
+msgstr ""
+
+#: post-type/meta_box.php:590 post-type/meta_box.php:604
+msgid "(yyyy-mm-dd)"
+msgstr ""
+
+#: post-type/meta_box.php:591 post-type/meta_box.php:605
+msgid "yy-mm-dd"
+msgstr ""
+
+#: post-type/meta_box.php:599
+msgid "Check-Out date"
+msgstr ""
+
+#: post-type/meta_box.php:601
+msgid "Check Out"
+msgstr ""
+
+#: post-type/meta_box.php:615
+msgid "Package Duration"
+msgstr ""
+
+#: post-type/meta_box.php:621 vc-addons/themeum-persons.php:83
+msgid "Person"
+msgstr ""
+
+#: post-type/meta_box.php:623
+msgid "Person Number"
+msgstr ""
+
+#: post-type/meta_box.php:629
+msgid "Availability"
+msgstr ""
+
+#: post-type/meta_box.php:631
+msgid "Availability Number"
+msgstr ""
+
+#: post-type/meta_box.php:645 vc-addons/themeum-package-search.php:139
+#: vc-addons/themeum-package-search.php:380
+#: vc-addons/themeum-package-search.php:417
+#: vc-addons/themeum-package-search2.php:130
+#: vc-addons/themeum-package-search2.php:319
+msgid "Location"
+msgstr ""
+
+#: post-type/meta_box.php:647
+msgid "Add your Location"
+msgstr ""
+
+#: post-type/meta_box.php:649
+msgid "Dhaka, Bangladesh"
+msgstr ""
+
+#: post-type/meta_box.php:696
+msgid "Package Hotel Settings"
+msgstr ""
+
+#: post-type/meta_box.php:704
+msgid "Hotel List"
+msgstr ""
+
+#: post-type/meta_box.php:721
+msgid "Package Itinerary Settings"
+msgstr ""
+
+#: post-type/meta_box.php:735
+msgid "Day"
+msgstr ""
+
+#: post-type/meta_box.php:741
+msgid "Place Name"
+msgstr ""
+
+#: post-type/meta_box.php:747
+msgid "Itinerary Short Note"
+msgstr ""
+
+#: post-type/meta_box.php:753
+msgid "Itinerary Photo"
+msgstr ""
+
+#: post-type/meta_box.php:767
+msgid "Package Tour Guide Settings"
+msgstr ""
+
+#: post-type/meta_box.php:781
+msgid "Guide Name"
+msgstr ""
+
+#: post-type/meta_box.php:788
+msgid "Guide Short Note"
+msgstr ""
+
+#: post-type/meta_box.php:794
+msgid "Guide Image"
+msgstr ""
+
+#: post-type/meta_box.php:800
+msgid "Guide Social Share"
+msgstr ""
+
+#: post-type/meta_box.php:851
+msgid "Video Settings"
+msgstr ""
+
+#: post-type/meta_box.php:865
+msgid "Video Info Title"
+msgstr ""
+
+#: post-type/meta_box.php:871
+msgid "Select Video Type/Source"
+msgstr ""
+
+#: post-type/meta_box.php:882
+msgid "Video"
+msgstr ""
+
+#: post-type/meta_box.php:886
+msgid "Add Video ID for Youtube and Vimeo / Video URL"
+msgstr ""
+
+#: post-type/meta_box.php:889
+msgid "Upload Video Image"
+msgstr ""
+
+#: post-type/meta_box.php:902
+msgid "Map Settings"
+msgstr ""
+
+#: post-type/meta_box.php:910
+msgid "Map"
+msgstr ""
+
+#: post-type/meta_box.php:919
+msgid "Disable Map From Single Page:"
+msgstr ""
+
+#: post-type/meta_box.php:936
+msgid "Vehicle Additional Settings"
+msgstr ""
+
+#: post-type/meta_box.php:972
+msgid "Additional Info"
+msgstr ""
+
+#: post-type/meta_box.php:979
+msgid "Passenger"
+msgstr ""
+
+#: post-type/meta_box.php:981
+msgid "Passenger Number"
+msgstr ""
+
+#: post-type/meta_box.php:994
+msgid "Pricing Method"
+msgstr ""
+
+#: post-type/meta_box.php:996
+msgid "Pricing Method (Per hour)"
+msgstr ""
+
+#: post-type/meta_box.php:1054
+msgid "Contact Short Note"
+msgstr ""
+
+#: post-type/meta_box.php:1056
+msgid "Add your Contact Short Note"
+msgstr ""
+
+#: post-type/meta_box.php:1062 post-type/schedule.php:25
+#: post-type/schedule.php:26
+msgid "Vehicle Schedule"
+msgstr ""
+
+#: post-type/meta_box.php:1087
+msgid "Gallery"
+msgstr ""
+
+#: post-type/meta_box.php:1093 post-type/meta_box.php:1144
+#: post-type/meta_box.php:1152
+msgid "Gallery Items"
+msgstr ""
+
+#: post-type/meta_box.php:1103 post-type/vehicle.php:59
+msgid "Schedules"
+msgstr ""
+
+#: post-type/meta_box.php:1110 vc-addons/themeum-package-search.php:316
+#: vc-addons/themeum-package-search.php:594
+#: vc-addons/themeum-package-search2.php:311
+msgid "Pickup Time"
+msgstr ""
+
+#: post-type/meta_box.php:1116
+msgid "Drop Time"
+msgstr ""
+
+#: post-type/meta_box.php:1122 post-type/meta_box.php:1301
+msgid "Vehicle"
+msgstr ""
+
+#: post-type/meta_box.php:1128
+msgid "Booked"
+msgstr ""
+
+#: post-type/meta_box.php:1173 post-type/meta_box.php:1283
+msgid "Order Item Settings"
+msgstr ""
+
+#: post-type/meta_box.php:1191
+msgid "Package"
+msgstr ""
+
+#: post-type/meta_box.php:1197 post-type/meta_box.php:1307
+msgid "Select Course"
+msgstr ""
+
+#: post-type/meta_box.php:1202 post-type/meta_box.php:1312
+msgid "Order ID"
+msgstr ""
+
+#: post-type/meta_box.php:1204 post-type/meta_box.php:1314
+msgid "Order Course ID Ex. 3"
+msgstr ""
+
+#: post-type/meta_box.php:1213 post-type/meta_box.php:1323
+msgid "Order User ID Ex. 3"
+msgstr ""
+
+#: post-type/meta_box.php:1222 post-type/meta_box.php:1224
+#: post-type/meta_box.php:1332 post-type/meta_box.php:1334
+msgid "Order Price"
+msgstr ""
+
+#: post-type/meta_box.php:1232 post-type/meta_box.php:1342
+msgid "Payment ID Ex. 3"
+msgstr ""
+
+#: post-type/meta_box.php:1238 post-type/meta_box.php:1348
+msgid "Payment Method"
+msgstr ""
+
+#: post-type/meta_box.php:1240 post-type/meta_box.php:1350
+msgid "Add Payment Method"
+msgstr ""
+
+#: post-type/meta_box.php:1246 post-type/meta_box.php:1356
+msgid "Order Created"
+msgstr ""
+
+#: post-type/meta_box.php:1248 post-type/meta_box.php:1358
+msgid "Order created"
+msgstr ""
+
+#: post-type/meta_box.php:1254 post-type/meta_box.php:1364
+msgid "Comments"
+msgstr ""
+
+#: post-type/meta_box.php:1256 post-type/meta_box.php:1366
+msgid "Add Your Order Comments Here"
+msgstr ""
+
+#: post-type/meta_box.php:1264 post-type/meta_box.php:1374
+msgid "Select Order Status"
+msgstr ""
+
+#: post-type/order.php:25
+msgctxt "Orders"
+msgid "Orders"
+msgstr ""
+
+#: post-type/order.php:26
+msgctxt "Order"
+msgid "Order"
+msgstr ""
+
+#: post-type/order.php:27
+msgid "Orders"
+msgstr ""
+
+#: post-type/order.php:28
+msgid "Parent Order:"
+msgstr ""
+
+#: post-type/order.php:29
+msgid "All Order"
+msgstr ""
+
+#: post-type/order.php:30
+msgid "View Order"
+msgstr ""
+
+#: post-type/order.php:31
+msgid "Add New Order"
+msgstr ""
+
+#: post-type/order.php:32
+msgid "New Order"
+msgstr ""
+
+#: post-type/order.php:33
+msgid "Edit Order"
+msgstr ""
+
+#: post-type/order.php:34
+msgid "Update Order"
+msgstr ""
+
+#: post-type/order.php:35
+msgid "Search Order"
+msgstr ""
+
+#: post-type/order.php:78
+#, php-format
+msgid "Order updated. <a href=\"%s\">View Order</a>"
+msgstr ""
+
+#: post-type/order.php:81
+msgid "Order updated."
+msgstr ""
+
+#: post-type/order.php:82
+#, php-format
+msgid "Order restored to revision from %s"
+msgstr ""
+
+#: post-type/order.php:83
+#, php-format
+msgid "Order published. <a href=\"%s\">View Order</a>"
+msgstr ""
+
+#: post-type/order.php:84
+msgid "Order saved."
+msgstr ""
+
+#: post-type/order.php:85
+#, php-format
+msgid "Order submitted. <a target=\"_blank\" href=\"%s\">Preview Order</a>"
+msgstr ""
+
+#: post-type/order.php:86
+#, php-format
+msgid ""
+"Order scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview Order</a>"
+msgstr ""
+
+#: post-type/order.php:87
+#, php-format
+msgid "Order draft updated. <a target=\"_blank\" href=\"%s\">Preview Order</a>"
+msgstr ""
+
+#: post-type/package.php:24
+msgctxt "Packages"
+msgid "Packages"
+msgstr ""
+
+#: post-type/package.php:25
+msgctxt "Package"
+msgid "Package"
+msgstr ""
+
+#: post-type/package.php:26
+msgid "Packages"
+msgstr ""
+
+#: post-type/package.php:27
+msgid "Parent Package:"
+msgstr ""
+
+#: post-type/package.php:28
+msgid "All Packages"
+msgstr ""
+
+#: post-type/package.php:29
+msgid "View Package"
+msgstr ""
+
+#: post-type/package.php:30
+msgid "Add New Package"
+msgstr ""
+
+#: post-type/package.php:31
+msgid "New Package"
+msgstr ""
+
+#: post-type/package.php:32
+msgid "Edit Package"
+msgstr ""
+
+#: post-type/package.php:33
+msgid "Update Package"
+msgstr ""
+
+#: post-type/package.php:34
+msgid "Search Package"
+msgstr ""
+
+#: post-type/package.php:73
+#, php-format
+msgid "Package updated. <a href=\"%s\">View Package</a>"
+msgstr ""
+
+#: post-type/package.php:76
+msgid "Package updated."
+msgstr ""
+
+#: post-type/package.php:77
+#, php-format
+msgid "Package restored to revision from %s"
+msgstr ""
+
+#: post-type/package.php:78
+#, php-format
+msgid "Package published. <a href=\"%s\">View Package</a>"
+msgstr ""
+
+#: post-type/package.php:79
+msgid "Package saved."
+msgstr ""
+
+#: post-type/package.php:80
+#, php-format
+msgid "Package submitted. <a target=\"_blank\" href=\"%s\">Preview Package</a>"
+msgstr ""
+
+#: post-type/package.php:81
+#, php-format
+msgid ""
+"Package scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Package</a>"
+msgstr ""
+
+#: post-type/package.php:82
+#, php-format
+msgid ""
+"Package draft updated. <a target=\"_blank\" href=\"%s\">Preview Package</a>"
+msgstr ""
+
+#: post-type/package.php:100
+msgctxt "taxonomy general name"
+msgid "Package Categories"
+msgstr ""
+
+#: post-type/package.php:101
+msgctxt "taxonomy singular name"
+msgid "Package Category"
+msgstr ""
+
+#: post-type/package.php:102
+msgid "Search Package Category"
+msgstr ""
+
+#: post-type/package.php:103
+msgid "All Package Category"
+msgstr ""
+
+#: post-type/package.php:104
+msgid "Package Parent Category"
+msgstr ""
+
+#: post-type/package.php:105
+msgid "Package Parent Category:"
+msgstr ""
+
+#: post-type/package.php:106
+msgid "Edit Package Category"
+msgstr ""
+
+#: post-type/package.php:107
+msgid "Update Package Category"
+msgstr ""
+
+#: post-type/package.php:108
+msgid "Add New Package Category"
+msgstr ""
+
+#: post-type/package.php:109
+msgid "New Package Category Name"
+msgstr ""
+
+#: post-type/package.php:110
+msgid "Package Category"
+msgstr ""
+
+#: post-type/package.php:137
+msgctxt "taxonomy general name"
+msgid "Package Locations"
+msgstr ""
+
+#: post-type/package.php:138
+msgctxt "taxonomy singular name"
+msgid "Package Location"
+msgstr ""
+
+#: post-type/package.php:139
+msgid "Search Package Location"
+msgstr ""
+
+#: post-type/package.php:140
+msgid "All Package Location"
+msgstr ""
+
+#: post-type/package.php:141
+msgid "Package Parent Location"
+msgstr ""
+
+#: post-type/package.php:142
+msgid "Package Parent Location:"
+msgstr ""
+
+#: post-type/package.php:143
+msgid "Edit Package Location"
+msgstr ""
+
+#: post-type/package.php:144
+msgid "Update Package Location"
+msgstr ""
+
+#: post-type/package.php:145
+msgid "Add New Package Location"
+msgstr ""
+
+#: post-type/package.php:146
+msgid "New Package Location Name"
+msgstr ""
+
+#: post-type/package.php:147
+msgid "Package Location"
+msgstr ""
+
+#: post-type/package.php:175
+msgctxt "taxonomy general name"
+msgid "Package Tags"
+msgstr ""
+
+#: post-type/package.php:176
+msgctxt "taxonomy singular name"
+msgid "Package Tag"
+msgstr ""
+
+#: post-type/package.php:177
+msgid "Search Package Tag"
+msgstr ""
+
+#: post-type/package.php:178
+msgid "All Package Tag"
+msgstr ""
+
+#: post-type/package.php:179
+msgid "Package Parent Tag"
+msgstr ""
+
+#: post-type/package.php:180
+msgid "Package Parent Tag:"
+msgstr ""
+
+#: post-type/package.php:181
+msgid "Edit Package Tag"
+msgstr ""
+
+#: post-type/package.php:182
+msgid "Update Package Tag"
+msgstr ""
+
+#: post-type/package.php:183
+msgid "Add New Package Tag"
+msgstr ""
+
+#: post-type/package.php:184
+msgid "New Package Tag Name"
+msgstr ""
+
+#: post-type/package.php:185
+msgid "Package Tag"
+msgstr ""
+
+#: post-type/photo-gallery.php:22 post-type/photo-gallery.php:23
+msgctxt "Gallery"
+msgid "Gallery"
+msgstr ""
+
+#: post-type/photo-gallery.php:24
+msgid "Photo Gallery"
+msgstr ""
+
+#: post-type/photo-gallery.php:25
+msgid "Parent Gallery:"
+msgstr ""
+
+#: post-type/photo-gallery.php:26
+msgid "All Gallery"
+msgstr ""
+
+#: post-type/photo-gallery.php:27
+msgid "View Gallery"
+msgstr ""
+
+#: post-type/photo-gallery.php:28
+msgid "Add New Gallery"
+msgstr ""
+
+#: post-type/photo-gallery.php:29
+msgid "New Gallery"
+msgstr ""
+
+#: post-type/photo-gallery.php:30
+msgid "Edit Gallery"
+msgstr ""
+
+#: post-type/photo-gallery.php:31
+msgid "Update Gallery"
+msgstr ""
+
+#: post-type/photo-gallery.php:32
+msgid "Search Gallery"
+msgstr ""
+
+#: post-type/photo-gallery.php:71
+#, php-format
+msgid "gallery updated. <a href=\"%s\">View gallery</a>"
+msgstr ""
+
+#: post-type/photo-gallery.php:74
+msgid "gallery updated."
+msgstr ""
+
+#: post-type/photo-gallery.php:75
+#, php-format
+msgid "gallery restored to revision from %s"
+msgstr ""
+
+#: post-type/photo-gallery.php:76
+#, php-format
+msgid "gallery published. <a href=\"%s\">View gallery</a>"
+msgstr ""
+
+#: post-type/photo-gallery.php:77
+msgid "gallery saved."
+msgstr ""
+
+#: post-type/photo-gallery.php:78
+#, php-format
+msgid "gallery submitted. <a target=\"_blank\" href=\"%s\">Preview gallery</a>"
+msgstr ""
+
+#: post-type/photo-gallery.php:79
+#, php-format
+msgid ""
+"gallery scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview gallery</a>"
+msgstr ""
+
+#: post-type/photo-gallery.php:80
+#, php-format
+msgid ""
+"gallery draft updated. <a target=\"_blank\" href=\"%s\">Preview gallery</a>"
+msgstr ""
+
+#: post-type/room-type.php:24
+msgctxt "Hotel Rooms"
+msgid "Hotel Rooms"
+msgstr ""
+
+#: post-type/room-type.php:25
+msgctxt "Hotel Room"
+msgid "Hotel Room"
+msgstr ""
+
+#: post-type/room-type.php:26
+msgid "Hotel Rooms"
+msgstr ""
+
+#: post-type/room-type.php:27
+msgid "Parent Hotel Room:"
+msgstr ""
+
+#: post-type/room-type.php:28
+msgid "All Hotel Rooms"
+msgstr ""
+
+#: post-type/room-type.php:29
+msgid "View Hotel Room"
+msgstr ""
+
+#: post-type/room-type.php:30
+msgid "Add New Hotel Room"
+msgstr ""
+
+#: post-type/room-type.php:31
+msgid "New Hotel Room"
+msgstr ""
+
+#: post-type/room-type.php:32
+msgid "Edit Hotel Room"
+msgstr ""
+
+#: post-type/room-type.php:33
+msgid "Update Hotel Room"
+msgstr ""
+
+#: post-type/room-type.php:34
+msgid "Search Hotel Room"
+msgstr ""
+
+#: post-type/room-type.php:73
+#, php-format
+msgid "Hotel Room updated. <a href=\"%s\">View Hotel Room</a>"
+msgstr ""
+
+#: post-type/room-type.php:76
+msgid "Hotel Room updated."
+msgstr ""
+
+#: post-type/room-type.php:77
+#, php-format
+msgid "Hotel Room restored to revision from %s"
+msgstr ""
+
+#: post-type/room-type.php:78
+#, php-format
+msgid "Hotel Room published. <a href=\"%s\">View Hotel Room</a>"
+msgstr ""
+
+#: post-type/room-type.php:79
+msgid "Hotel Room saved."
+msgstr ""
+
+#: post-type/room-type.php:80
+#, php-format
+msgid ""
+"Hotel Room submitted. <a target=\"_blank\" href=\"%s\">Preview Hotel Room</a>"
+msgstr ""
+
+#: post-type/room-type.php:81
+#, php-format
+msgid ""
+"Hotel Room scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Hotel Room</a>"
+msgstr ""
+
+#: post-type/room-type.php:82
+#, php-format
+msgid ""
+"Hotel Room draft updated. <a target=\"_blank\" href=\"%s\">Preview Hotel "
+"Room</a>"
+msgstr ""
+
+#: post-type/room-type.php:99
+msgctxt "taxonomy general name"
+msgid "Room Categories"
+msgstr ""
+
+#: post-type/room-type.php:100
+msgctxt "taxonomy singular name"
+msgid "Room Category"
+msgstr ""
+
+#: post-type/room-type.php:101
+msgid "Search Room Category"
+msgstr ""
+
+#: post-type/room-type.php:102
+msgid "All Room Category"
+msgstr ""
+
+#: post-type/room-type.php:103
+msgid "Room Parent Category"
+msgstr ""
+
+#: post-type/room-type.php:104
+msgid "Room Parent Category:"
+msgstr ""
+
+#: post-type/room-type.php:105
+msgid "Edit Room Category"
+msgstr ""
+
+#: post-type/room-type.php:106
+msgid "Update Room Category"
+msgstr ""
+
+#: post-type/room-type.php:107
+msgid "Add New Room Category"
+msgstr ""
+
+#: post-type/room-type.php:108
+msgid "New Room Category Name"
+msgstr ""
+
+#: post-type/room-type.php:109
+msgid "Room Category"
+msgstr ""
+
+#: post-type/schedule.php:27
+msgid "Vehicle Schedules"
+msgstr ""
+
+#: post-type/schedule.php:28
+msgid "Parent Vehicle Schedule:"
+msgstr ""
+
+#: post-type/schedule.php:29
+msgid "All Vehicle Schedule"
+msgstr ""
+
+#: post-type/schedule.php:30
+msgid "View Vehicle Schedule"
+msgstr ""
+
+#: post-type/schedule.php:31
+msgid "Add New Vehicle Schedule"
+msgstr ""
+
+#: post-type/schedule.php:32
+msgid "New Vehicle Schedule"
+msgstr ""
+
+#: post-type/schedule.php:33
+msgid "Edit Vehicle Schedule"
+msgstr ""
+
+#: post-type/schedule.php:34
+msgid "Update Vehicle Schedule"
+msgstr ""
+
+#: post-type/schedule.php:35
+msgid "Search Vehicle Schedule"
+msgstr ""
+
+#: post-type/schedule.php:73
+#, php-format
+msgid "Schedule updated. <a href=\"%s\">View Schedule</a>"
+msgstr ""
+
+#: post-type/schedule.php:76
+msgid "Schedule updated."
+msgstr ""
+
+#: post-type/schedule.php:77
+#, php-format
+msgid "Schedule restored to revision from %s"
+msgstr ""
+
+#: post-type/schedule.php:78
+#, php-format
+msgid "Schedule published. <a href=\"%s\">View Schedule</a>"
+msgstr ""
+
+#: post-type/schedule.php:79
+msgid "Schedule saved."
+msgstr ""
+
+#: post-type/schedule.php:80
+#, php-format
+msgid ""
+"Schedule submitted. <a target=\"_blank\" href=\"%s\">Preview Schedule</a>"
+msgstr ""
+
+#: post-type/schedule.php:81
+#, php-format
+msgid ""
+"Schedule scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Schedule</a>"
+msgstr ""
+
+#: post-type/schedule.php:82
+#, php-format
+msgid ""
+"Schedule draft updated. <a target=\"_blank\" href=\"%s\">Preview Schedule</a>"
+msgstr ""
+
+#: post-type/vehicle.php:24
+msgctxt "Vehicles"
+msgid "Vehicles"
+msgstr ""
+
+#: post-type/vehicle.php:25
+msgctxt "Vehicle"
+msgid "Vehicle"
+msgstr ""
+
+#: post-type/vehicle.php:26 vc-addons/themeum-package-search.php:83
+#: vc-addons/themeum-package-search.php:361
+#: vc-addons/themeum-package-search.php:675
+#: vc-addons/themeum-package-search2.php:74
+#: vc-addons/themeum-package-search2.php:401
+msgid "Vehicles"
+msgstr ""
+
+#: post-type/vehicle.php:27
+msgid "Parent Vehicle:"
+msgstr ""
+
+#: post-type/vehicle.php:28
+msgid "All Vehicles"
+msgstr ""
+
+#: post-type/vehicle.php:29
+msgid "View Vehicle"
+msgstr ""
+
+#: post-type/vehicle.php:30
+msgid "Add New Vehicle"
+msgstr ""
+
+#: post-type/vehicle.php:31
+msgid "New Vehicle"
+msgstr ""
+
+#: post-type/vehicle.php:32
+msgid "Edit Vehicle"
+msgstr ""
+
+#: post-type/vehicle.php:33
+msgid "Update Vehicle"
+msgstr ""
+
+#: post-type/vehicle.php:34
+msgid "Search Vehicle"
+msgstr ""
+
+#: post-type/vehicle.php:57
+msgctxt "Schedules"
+msgid "Schedules"
+msgstr ""
+
+#: post-type/vehicle.php:58
+msgctxt "Schedule"
+msgid "Schedule"
+msgstr ""
+
+#: post-type/vehicle.php:60
+msgid "Parent Schedule:"
+msgstr ""
+
+#: post-type/vehicle.php:61
+msgid "All Schedules"
+msgstr ""
+
+#: post-type/vehicle.php:62
+msgid "View Schedule"
+msgstr ""
+
+#: post-type/vehicle.php:63
+msgid "Add New Schedule"
+msgstr ""
+
+#: post-type/vehicle.php:64
+msgid "New Schedule"
+msgstr ""
+
+#: post-type/vehicle.php:65
+msgid "Edit Schedule"
+msgstr ""
+
+#: post-type/vehicle.php:66
+msgid "Update Schedule"
+msgstr ""
+
+#: post-type/vehicle.php:67
+msgid "Search Schedule"
+msgstr ""
+
+#: post-type/vehicle.php:106
+#, php-format
+msgid "Vehicle updated. <a href=\"%s\">View Vehicle</a>"
+msgstr ""
+
+#: post-type/vehicle.php:109
+msgid "Vehicle updated."
+msgstr ""
+
+#: post-type/vehicle.php:110
+#, php-format
+msgid "Vehicle restored to revision from %s"
+msgstr ""
+
+#: post-type/vehicle.php:111
+#, php-format
+msgid "Vehicle published. <a href=\"%s\">View Vehicle</a>"
+msgstr ""
+
+#: post-type/vehicle.php:112
+msgid "Vehicle saved."
+msgstr ""
+
+#: post-type/vehicle.php:113
+#, php-format
+msgid "Vehicle submitted. <a target=\"_blank\" href=\"%s\">Preview Vehicle</a>"
+msgstr ""
+
+#: post-type/vehicle.php:114
+#, php-format
+msgid ""
+"Vehicle scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Vehicle</a>"
+msgstr ""
+
+#: post-type/vehicle.php:115
+#, php-format
+msgid ""
+"Vehicle draft updated. <a target=\"_blank\" href=\"%s\">Preview Vehicle</a>"
+msgstr ""
+
+#: post-type/vehicle.php:133
+msgctxt "taxonomy general name"
+msgid "Vehicle Categories"
+msgstr ""
+
+#: post-type/vehicle.php:134
+msgctxt "taxonomy singular name"
+msgid "Vehicle Category"
+msgstr ""
+
+#: post-type/vehicle.php:135
+msgid "Search Vehicle Category"
+msgstr ""
+
+#: post-type/vehicle.php:136
+msgid "All Vehicle Category"
+msgstr ""
+
+#: post-type/vehicle.php:137
+msgid "Vehicle Parent Category"
+msgstr ""
+
+#: post-type/vehicle.php:138
+msgid "Vehicle Parent Category:"
+msgstr ""
+
+#: post-type/vehicle.php:139
+msgid "Edit Vehicle Category"
+msgstr ""
+
+#: post-type/vehicle.php:140
+msgid "Update Vehicle Category"
+msgstr ""
+
+#: post-type/vehicle.php:141
+msgid "Add New Vehicle Category"
+msgstr ""
+
+#: post-type/vehicle.php:142
+msgid "New Vehicle Category Name"
+msgstr ""
+
+#: post-type/vehicle.php:143
+msgid "Vehicle Category"
+msgstr ""
+
+#: post-type/vehicle.php:170
+msgctxt "taxonomy general name"
+msgid "vehicle Locations"
+msgstr ""
+
+#: post-type/vehicle.php:171
+msgctxt "taxonomy singular name"
+msgid "vehicle Location"
+msgstr ""
+
+#: post-type/vehicle.php:172
+msgid "Search vehicle Location"
+msgstr ""
+
+#: post-type/vehicle.php:173
+msgid "All vehicle Location"
+msgstr ""
+
+#: post-type/vehicle.php:174
+msgid "vehicle Parent Location"
+msgstr ""
+
+#: post-type/vehicle.php:175
+msgid "vehicle Parent Location:"
+msgstr ""
+
+#: post-type/vehicle.php:176
+msgid "Edit vehicle Location"
+msgstr ""
+
+#: post-type/vehicle.php:177
+msgid "Update vehicle Location"
+msgstr ""
+
+#: post-type/vehicle.php:178
+msgid "Add New vehicle Location"
+msgstr ""
+
+#: post-type/vehicle.php:179
+msgid "New vehicle Location Name"
+msgstr ""
+
+#: post-type/vehicle.php:180
+msgid "vehicle Location"
+msgstr ""
+
+#: post-type/vehicle.php:206
+msgctxt "taxonomy general name"
+msgid "Vehicle Tags"
+msgstr ""
+
+#: post-type/vehicle.php:207
+msgctxt "taxonomy singular name"
+msgid "Vehicle Tag"
+msgstr ""
+
+#: post-type/vehicle.php:208
+msgid "Search Vehicle Tag"
+msgstr ""
+
+#: post-type/vehicle.php:209
+msgid "All Vehicle Tag"
+msgstr ""
+
+#: post-type/vehicle.php:210
+msgid "Vehicle Parent Tag"
+msgstr ""
+
+#: post-type/vehicle.php:211
+msgid "Vehicle Parent Tag:"
+msgstr ""
+
+#: post-type/vehicle.php:212
+msgid "Edit Vehicle Tag"
+msgstr ""
+
+#: post-type/vehicle.php:213
+msgid "Update Vehicle Tag"
+msgstr ""
+
+#: post-type/vehicle.php:214
+msgid "Add New Vehicle Tag"
+msgstr ""
+
+#: post-type/vehicle.php:215
+msgid "New Vehicle Tag Name"
+msgstr ""
+
+#: post-type/vehicle.php:216
+msgid "Vehicle Tag"
+msgstr ""
+
+#: post-type/vehicle.php:237
+msgctxt "taxonomy general name"
+msgid "Pick Locations"
+msgstr ""
+
+#: post-type/vehicle.php:238 post-type/vehicle.php:268
+msgctxt "taxonomy singular name"
+msgid "Pick Location"
+msgstr ""
+
+#: post-type/vehicle.php:239
+msgid "Search Pick Location"
+msgstr ""
+
+#: post-type/vehicle.php:240
+msgid "All Pick Location"
+msgstr ""
+
+#: post-type/vehicle.php:241
+msgid "Pick Parent Location"
+msgstr ""
+
+#: post-type/vehicle.php:242
+msgid "Pick Parent Location:"
+msgstr ""
+
+#: post-type/vehicle.php:243
+msgid "Edit Pick Location"
+msgstr ""
+
+#: post-type/vehicle.php:244
+msgid "Update Pick Location"
+msgstr ""
+
+#: post-type/vehicle.php:245
+msgid "Add New Pick Location"
+msgstr ""
+
+#: post-type/vehicle.php:246
+msgid "New Pick Location Name"
+msgstr ""
+
+#: post-type/vehicle.php:247
+msgid "Pick Location"
+msgstr ""
+
+#: post-type/vehicle.php:267
+msgctxt "taxonomy general name"
+msgid "Drop Locations"
+msgstr ""
+
+#: post-type/vehicle.php:269
+msgid "Search Drop Location"
+msgstr ""
+
+#: post-type/vehicle.php:270
+msgid "All Drop Location"
+msgstr ""
+
+#: post-type/vehicle.php:271
+msgid "Drop Parent Location"
+msgstr ""
+
+#: post-type/vehicle.php:272
+msgid "Drop Parent Location:"
+msgstr ""
+
+#: post-type/vehicle.php:273
+msgid "Edit Drop Location"
+msgstr ""
+
+#: post-type/vehicle.php:274
+msgid "Update Drop Location"
+msgstr ""
+
+#: post-type/vehicle.php:275
+msgid "Add New Drop Location"
+msgstr ""
+
+#: post-type/vehicle.php:276
+msgid "New Drop Location Name"
+msgstr ""
+
+#: post-type/vehicle.php:277 vc-addons/themeum-package-search.php:333
+#: vc-addons/themeum-package-search.php:334
+#: vc-addons/themeum-package-search.php:611
+#: vc-addons/themeum-package-search.php:612
+msgid "Drop Location"
+msgstr ""
+
+#: themeum-core.php:225 themeum-core.php:237
+msgid "Location image url"
+msgstr ""
+
+#: themeum-flight/themeum-flight.php:684
+msgid "Flight Details"
+msgstr ""
+
+#: themeum-flight/themeum-flight.php:685
+msgid "Share"
+msgstr ""
+
+#: themeum-flight/themeum-flight.php:700
+msgid "More +"
+msgstr ""
+
+#: themeum-flight/themeum-flight.php:768
+msgid " Stop"
+msgid_plural " Stops"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themeum-flight/themeum-flight.php:777
+msgid "Direct"
+msgstr ""
+
+#: vc-addons/feature-carousel.php:166
+msgid "Themeum Feature"
+msgstr ""
+
+#: vc-addons/feature-carousel.php:172 vc-addons/themeum-partner.php:112
+#: vc-addons/themeum-slider2.php:219
+msgid "Text blocks connected together in one list."
+msgstr ""
+
+#: vc-addons/feature-carousel.php:180 vc-addons/feature-carousel.php:182
+#: vc-addons/themeum-partner.php:120 vc-addons/themeum-partner.php:122
+#: vc-addons/themeum-slider2.php:226 vc-addons/themeum-slider2.php:228
+msgid "Add Custom Class"
+msgstr ""
+
+#: vc-addons/feature-carousel.php:191
+msgid "Feature Item"
+msgstr ""
+
+#: vc-addons/feature-carousel.php:204 vc-addons/themeum-slider2.php:271
+#: vc-addons/themeum-slider2.php:273 vc-addons/themeum-title.php:92
+msgid "Title"
+msgstr ""
+
+#: vc-addons/feature-carousel.php:206
+msgid "Add Title "
+msgstr ""
+
+#: vc-addons/feature-carousel.php:211
+msgid "Link"
+msgstr ""
+
+#: vc-addons/feature-carousel.php:213 vc-addons/themeum-partner.php:146
+msgid "Add Partner Link "
+msgstr ""
+
+#: vc-addons/feature-carousel.php:221
+msgid "Add Sub Title "
+msgstr ""
+
+#: vc-addons/feature-carousel.php:227
+msgid "Duration & Cost"
+msgstr ""
+
+#: vc-addons/feature-carousel.php:229
+msgid "Add Duration & Cost"
+msgstr ""
+
+#: vc-addons/feature-carousel.php:234
+msgid "Some information"
+msgstr ""
+
+#: vc-addons/feature-carousel.php:236
+msgid "Add Some info "
+msgstr ""
+
+#: vc-addons/feature-carousel.php:247 vc-addons/themeum-button.php:93
+msgid "Button Name"
+msgstr ""
+
+#: vc-addons/feature-carousel.php:254 vc-addons/themeum-button.php:100
+msgid "Target Link"
+msgstr ""
+
+#: vc-addons/feature-carousel.php:260 vc-addons/themeum-action.php:252
+#: vc-addons/themeum-button.php:170
+msgid "Button Type"
+msgstr ""
+
+#: vc-addons/feature-carousel.php:267 vc-addons/themeum-action.php:260
+#: vc-addons/themeum-button.php:177
+msgid "Button Size"
+msgstr ""
+
+#: vc-addons/feature-carousel.php:273
+msgid "Upload Image"
+msgstr ""
+
+#: vc-addons/hotel-listing.php:64 vc-addons/hotel-listing.php:94
+#: vc-addons/hotel-listing.php:145 vc-addons/vehicle-listing.php:70
+msgid "View Details"
+msgstr ""
+
+#: vc-addons/hotel-listing.php:86 vc-addons/hotel-listing.php:116
+#: vc-addons/hotel-listing.php:142 vc-addons/vehicle-listing.php:67
+msgid "Start from"
+msgstr ""
+
+#: vc-addons/hotel-listing.php:189
+msgid "Hotel Listing"
+msgstr ""
+
+#: vc-addons/hotel-listing.php:193 vc-addons/popular-package-listing.php:123
+#: vc-addons/popular-package.php:155 vc-addons/themeum-action.php:108
+#: vc-addons/themeum-flight-result.php:42
+#: vc-addons/themeum-latest-post.php:108
+#: vc-addons/themeum-package-search.php:642
+#: vc-addons/themeum-package-search2.php:368 vc-addons/themeum-persons.php:87
+#: vc-addons/themeum-popup-video.php:79 vc-addons/themeum-title.php:96
+msgid "Widget Title Heading"
+msgstr ""
+
+#: vc-addons/hotel-listing.php:194 vc-addons/location-list.php:72
+#: vc-addons/popular-package-listing.php:124 vc-addons/popular-package.php:156
+#: vc-addons/themeum-action.php:109 vc-addons/themeum-button.php:66
+#: vc-addons/themeum-flight-result.php:43
+#: vc-addons/themeum-gallery-list.php:144
+#: vc-addons/themeum-icon-listing.php:73 vc-addons/themeum-latest-post.php:109
+#: vc-addons/themeum-package-search.php:643
+#: vc-addons/themeum-package-search2.php:369 vc-addons/themeum-persons.php:88
+#: vc-addons/themeum-popup-video.php:80 vc-addons/themeum-title.php:97
+#: vc-addons/vehicle-listing.php:118
+msgid "Travelkit"
+msgstr ""
+
+#: vc-addons/hotel-listing.php:198 vc-addons/popular-package.php:168
+#: vc-addons/themeum-latest-post.php:114
+msgid "Layout style"
+msgstr ""
+
+#: vc-addons/hotel-listing.php:205 vc-addons/popular-package-listing.php:129
+#: vc-addons/popular-package.php:161
+msgid "Category Filter"
+msgstr ""
+
+#: vc-addons/hotel-listing.php:212 vc-addons/popular-package-listing.php:136
+#: vc-addons/popular-package.php:175 vc-addons/themeum-latest-post.php:135
+#: vc-addons/vehicle-listing.php:130
+msgid "Number of items"
+msgstr ""
+
+#: vc-addons/hotel-listing.php:219 vc-addons/location-list.php:84
+#: vc-addons/popular-package-listing.php:143 vc-addons/popular-package.php:182
+#: vc-addons/themeum-gallery-list.php:171
+#: vc-addons/themeum-latest-post.php:128
+msgid "Number Of Column"
+msgstr ""
+
+#: vc-addons/hotel-listing.php:226 vc-addons/popular-package-listing.php:150
+#: vc-addons/popular-package.php:189 vc-addons/themeum-latest-post.php:149
+#: vc-addons/vehicle-listing.php:144
+msgid "Order"
+msgstr ""
+
+#: vc-addons/hotel-listing.php:233 vc-addons/popular-package-listing.php:157
+#: vc-addons/popular-package.php:196 vc-addons/themeum-latest-post.php:142
+#: vc-addons/vehicle-listing.php:151
+msgid "OderBy"
+msgstr ""
+
+#: vc-addons/hotel-listing.php:240 vc-addons/popular-package-listing.php:164
+#: vc-addons/popular-package.php:203 vc-addons/vehicle-listing.php:158
+msgid "Pagination"
+msgstr ""
+
+#: vc-addons/hotel-listing.php:247 vc-addons/popular-package-listing.php:171
+#: vc-addons/popular-package.php:210 vc-addons/themeum-latest-post.php:156
+#: vc-addons/vehicle-listing.php:165
+msgid "Custom Class"
+msgstr ""
+
+#: vc-addons/location-list.php:67
+msgid "Package location"
+msgstr ""
+
+#: vc-addons/location-list.php:77
+msgid "Count"
+msgstr ""
+
+#: vc-addons/location-list.php:79
+msgid "Enter the number of performers you want to display."
+msgstr ""
+
+#: vc-addons/location-list.php:90 vc-addons/themeum-icon-listing.php:134
+msgid "Extra CSS Class"
+msgstr ""
+
+#: vc-addons/popular-package-listing.php:119
+msgid "Package Listing"
+msgstr ""
+
+#: vc-addons/popular-package.php:151
+msgid "Popular Tour Package"
+msgstr ""
+
+#: vc-addons/themeum-action.php:104
+msgid "Call to Action"
+msgstr ""
+
+#: vc-addons/themeum-action.php:115 vc-addons/themeum-popup-video.php:85
+#: vc-addons/themeum-title.php:109
+msgid "Alignment"
+msgstr ""
+
+#: vc-addons/themeum-action.php:122 vc-addons/themeum-popup-video.php:114
+#: vc-addons/themeum-title.php:116
+msgid "Title Text"
+msgstr ""
+
+#: vc-addons/themeum-action.php:129 vc-addons/themeum-title.php:123
+msgid "Select Title Style"
+msgstr ""
+
+#: vc-addons/themeum-action.php:136 vc-addons/themeum-title.php:130
+msgid "Title Heading"
+msgstr ""
+
+#: vc-addons/themeum-action.php:143 vc-addons/themeum-popup-video.php:122
+#: vc-addons/themeum-title.php:137
+msgid "Title Font Size"
+msgstr ""
+
+#: vc-addons/themeum-action.php:151 vc-addons/themeum-popup-video.php:129
+#: vc-addons/themeum-title.php:145
+msgid "Title Color"
+msgstr ""
+
+#: vc-addons/themeum-action.php:159 vc-addons/themeum-popup-video.php:136
+#: vc-addons/themeum-title.php:153
+msgid "Title Font Weight"
+msgstr ""
+
+#: vc-addons/themeum-action.php:167 vc-addons/themeum-popup-video.php:143
+#: vc-addons/themeum-title.php:161
+msgid "Title Margin"
+msgstr ""
+
+#: vc-addons/themeum-action.php:175 vc-addons/themeum-popup-video.php:150
+#: vc-addons/themeum-title.php:169
+msgid "Title Padding"
+msgstr ""
+
+#: vc-addons/themeum-action.php:184 vc-addons/themeum-title.php:178
+msgid "Sub Title Text"
+msgstr ""
+
+#: vc-addons/themeum-action.php:191 vc-addons/themeum-title.php:185
+msgid "Select Sub Title Style"
+msgstr ""
+
+#: vc-addons/themeum-action.php:198 vc-addons/themeum-title.php:192
+msgid "Sub Title Font Size"
+msgstr ""
+
+#: vc-addons/themeum-action.php:206 vc-addons/themeum-title.php:200
+msgid "Sub Title Color"
+msgstr ""
+
+#: vc-addons/themeum-action.php:214 vc-addons/themeum-title.php:208
+msgid "Sub Title Heading"
+msgstr ""
+
+#: vc-addons/themeum-action.php:222 vc-addons/themeum-title.php:216
+msgid "Sub Title Font Weight"
+msgstr ""
+
+#: vc-addons/themeum-action.php:230 vc-addons/themeum-title.php:224
+msgid "Sub Title Margin"
+msgstr ""
+
+#: vc-addons/themeum-action.php:238
+msgid "Button Text"
+msgstr ""
+
+#: vc-addons/themeum-action.php:245
+msgid "Button URL"
+msgstr ""
+
+#: vc-addons/themeum-action.php:267 vc-addons/themeum-button.php:184
+#: vc-addons/themeum-gallery-list.php:187
+#: vc-addons/themeum-popup-video.php:164 vc-addons/themeum-title.php:232
+msgid "Custom Class "
+msgstr ""
+
+#: vc-addons/themeum-button.php:63
+msgid " Themeum Button"
+msgstr ""
+
+#: vc-addons/themeum-button.php:72
+msgid "Position"
+msgstr ""
+
+#: vc-addons/themeum-button.php:79
+msgid "Display"
+msgstr ""
+
+#: vc-addons/themeum-button.php:107
+msgid "Button Text Size"
+msgstr ""
+
+#: vc-addons/themeum-button.php:114
+msgid "Button Text Color"
+msgstr ""
+
+#: vc-addons/themeum-button.php:121
+msgid "Hover Button Text Color"
+msgstr ""
+
+#: vc-addons/themeum-button.php:128
+msgid "Button Background"
+msgstr ""
+
+#: vc-addons/themeum-button.php:135
+msgid "Hover Button Background"
+msgstr ""
+
+#: vc-addons/themeum-button.php:142
+msgid "Border Radius"
+msgstr ""
+
+#: vc-addons/themeum-button.php:149
+msgid "Button Font Wight"
+msgstr ""
+
+#: vc-addons/themeum-button.php:156
+msgid "Button Margin Ex. 5px 0 5px 0"
+msgstr ""
+
+#: vc-addons/themeum-button.php:163
+msgid "Button Padding Ex. 5px 0 5px 0"
+msgstr ""
+
+#: vc-addons/themeum-flight-result.php:10
+msgid "There is some error to get flight data. Please try again."
+msgstr ""
+
+#: vc-addons/themeum-flight-result.php:11
+msgid "Sorry, no result found."
+msgstr ""
+
+#: vc-addons/themeum-flight-result.php:12
+msgid "Loading..."
+msgstr ""
+
+#: vc-addons/themeum-flight-result.php:12
+msgid "Please wait. It may take up to 2 mins."
+msgstr ""
+
+#: vc-addons/themeum-flight-result.php:13
+msgid "Flights Found"
+msgstr ""
+
+#: vc-addons/themeum-flight-result.php:38
+msgid "Flight Result"
+msgstr ""
+
+#: vc-addons/themeum-gallery-list.php:139
+msgid "Gallery List"
+msgstr ""
+
+#: vc-addons/themeum-gallery-list.php:143
+msgid "Widget Project"
+msgstr ""
+
+#: vc-addons/themeum-gallery-list.php:149
+msgid "Gappry Layout"
+msgstr ""
+
+#: vc-addons/themeum-gallery-list.php:155
+msgid "Project Name"
+msgstr ""
+
+#: vc-addons/themeum-gallery-list.php:157
+msgid "Select your Gallery List"
+msgstr ""
+
+#: vc-addons/themeum-gallery-list.php:163
+msgid "Limit"
+msgstr ""
+
+#: vc-addons/themeum-gallery-list.php:179
+msgid "Image Margin"
+msgstr ""
+
+#: vc-addons/themeum-icon-listing.php:68
+msgid "Themeum Icon listing"
+msgstr ""
+
+#: vc-addons/themeum-icon-listing.php:78 vc-addons/themeum-popup-video.php:92
+msgid "Icon List"
+msgstr ""
+
+#: vc-addons/themeum-icon-listing.php:85 vc-addons/themeum-popup-video.php:99
+msgid "Icon Font Size"
+msgstr ""
+
+#: vc-addons/themeum-icon-listing.php:92 vc-addons/themeum-popup-video.php:106
+msgid "Icon Color"
+msgstr ""
+
+#: vc-addons/themeum-icon-listing.php:99
+msgid "Content"
+msgstr ""
+
+#: vc-addons/themeum-icon-listing.php:106
+msgid "Contant Font Size"
+msgstr ""
+
+#: vc-addons/themeum-icon-listing.php:113
+msgid "Contant Text Color"
+msgstr ""
+
+#: vc-addons/themeum-icon-listing.php:120
+msgid "Text Content Margin"
+msgstr ""
+
+#: vc-addons/themeum-icon-listing.php:127
+msgid "Content Text URL"
+msgstr ""
+
+#: vc-addons/themeum-latest-post.php:104
+msgid "Themeum Latest Post"
+msgstr ""
+
+#: vc-addons/themeum-latest-post.php:121
+msgid "Category Name (leave empty for all latest post list)"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:74
+#: vc-addons/themeum-package-search.php:352
+#: vc-addons/themeum-package-search.php:648
+#: vc-addons/themeum-package-search2.php:65
+#: vc-addons/themeum-package-search2.php:374
+msgid "Holidays"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:77
+#: vc-addons/themeum-package-search.php:355
+#: vc-addons/themeum-package-search2.php:68
+msgid "Hotels &amp; Resorts"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:80
+#: vc-addons/themeum-package-search.php:358
+#: vc-addons/themeum-package-search.php:666
+#: vc-addons/themeum-package-search2.php:71
+#: vc-addons/themeum-package-search2.php:392
+msgid "Flights"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:94
+#: vc-addons/themeum-package-search.php:121
+#: vc-addons/themeum-package-search.php:131
+#: vc-addons/themeum-package-search.php:185
+#: vc-addons/themeum-package-search.php:305
+#: vc-addons/themeum-package-search.php:338
+#: vc-addons/themeum-package-search.php:372
+#: vc-addons/themeum-package-search.php:399
+#: vc-addons/themeum-package-search.php:409
+#: vc-addons/themeum-package-search.php:463
+#: vc-addons/themeum-package-search.php:583
+#: vc-addons/themeum-package-search.php:616
+#: vc-addons/themeum-package-search2.php:85
+#: vc-addons/themeum-package-search2.php:112
+#: vc-addons/themeum-package-search2.php:122
+#: vc-addons/themeum-package-search2.php:176
+#: vc-addons/themeum-package-search2.php:296
+#: vc-addons/themeum-package-search2.php:306
+#: vc-addons/themeum-package-search2.php:344
+msgid "Search"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:95
+#: vc-addons/themeum-package-search.php:132
+#: vc-addons/themeum-package-search.php:373
+#: vc-addons/themeum-package-search.php:410
+#: vc-addons/themeum-package-search2.php:86
+#: vc-addons/themeum-package-search2.php:123
+#: vc-addons/themeum-package-search2.php:307
+#: vc-addons/themeum-package-search2.php:312
+msgid "Type keyword"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:102
+#: vc-addons/themeum-package-search2.php:93
+msgid "Destination"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:104
+#: vc-addons/themeum-package-search2.php:95
+msgid "Select a destination"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:117
+#: vc-addons/themeum-package-search.php:395
+#: vc-addons/themeum-package-search2.php:108
+msgid "Guest"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:118
+#: vc-addons/themeum-package-search.php:396
+#: vc-addons/themeum-package-search2.php:109
+msgid "Number of guests"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:141
+#: vc-addons/themeum-package-search.php:419
+#: vc-addons/themeum-package-search2.php:132
+#: vc-addons/themeum-package-search2.php:321
+msgid "Select a location"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:153
+#: vc-addons/themeum-package-search.php:155
+#: vc-addons/themeum-package-search.php:431
+#: vc-addons/themeum-package-search.php:433
+#: vc-addons/themeum-package-search2.php:144
+#: vc-addons/themeum-package-search2.php:146
+msgid "Hotel Type"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:245
+#: vc-addons/themeum-package-search.php:523
+#: vc-addons/themeum-package-search2.php:236
+msgid "From"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:246
+#: vc-addons/themeum-package-search.php:524
+#: vc-addons/themeum-package-search2.php:237
+msgid "Origin city or airport"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:249
+#: vc-addons/themeum-package-search.php:527
+#: vc-addons/themeum-package-search2.php:240
+msgid "To"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:250
+#: vc-addons/themeum-package-search.php:528
+#: vc-addons/themeum-package-search2.php:241
+msgid "Destination city or airport"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:253
+#: vc-addons/themeum-package-search.php:531
+#: vc-addons/themeum-package-search2.php:244
+msgid "Departure"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:254
+#: vc-addons/themeum-package-search.php:532
+#: vc-addons/themeum-package-search2.php:245
+msgid "Departure date"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:257
+#: vc-addons/themeum-package-search.php:535
+#: vc-addons/themeum-package-search2.php:248
+msgid "Return"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:258
+#: vc-addons/themeum-package-search.php:536
+#: vc-addons/themeum-package-search2.php:249
+msgid "Return date"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:261
+#: vc-addons/themeum-package-search.php:539
+#: vc-addons/themeum-package-search2.php:252
+msgid "Class Type"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:263
+#: vc-addons/themeum-package-search.php:541
+#: vc-addons/themeum-package-search2.php:254
+msgid "Economy"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:264
+#: vc-addons/themeum-package-search.php:542
+#: vc-addons/themeum-package-search2.php:255
+msgid "Premium Economy"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:265
+#: vc-addons/themeum-package-search.php:543
+#: vc-addons/themeum-package-search2.php:256
+msgid "Business"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:266
+#: vc-addons/themeum-package-search.php:544
+#: vc-addons/themeum-package-search2.php:257
+msgid "First"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:271
+#: vc-addons/themeum-package-search.php:549
+#: vc-addons/themeum-package-search2.php:262
+msgid "Adults"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:273
+#: vc-addons/themeum-package-search.php:287
+#: vc-addons/themeum-package-search.php:551
+#: vc-addons/themeum-package-search.php:565
+#: vc-addons/themeum-package-search2.php:264
+#: vc-addons/themeum-package-search2.php:278
+msgid "1"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:274
+#: vc-addons/themeum-package-search.php:288
+#: vc-addons/themeum-package-search.php:552
+#: vc-addons/themeum-package-search.php:566
+#: vc-addons/themeum-package-search2.php:265
+#: vc-addons/themeum-package-search2.php:279
+msgid "2"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:275
+#: vc-addons/themeum-package-search.php:289
+#: vc-addons/themeum-package-search.php:553
+#: vc-addons/themeum-package-search.php:567
+#: vc-addons/themeum-package-search2.php:266
+#: vc-addons/themeum-package-search2.php:280
+msgid "3"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:276
+#: vc-addons/themeum-package-search.php:290
+#: vc-addons/themeum-package-search.php:554
+#: vc-addons/themeum-package-search.php:568
+#: vc-addons/themeum-package-search2.php:267
+#: vc-addons/themeum-package-search2.php:281
+msgid "4"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:277
+#: vc-addons/themeum-package-search.php:291
+#: vc-addons/themeum-package-search.php:555
+#: vc-addons/themeum-package-search.php:569
+#: vc-addons/themeum-package-search2.php:268
+#: vc-addons/themeum-package-search2.php:282
+msgid "5"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:278
+#: vc-addons/themeum-package-search.php:292
+#: vc-addons/themeum-package-search.php:556
+#: vc-addons/themeum-package-search.php:570
+#: vc-addons/themeum-package-search2.php:269
+#: vc-addons/themeum-package-search2.php:283
+msgid "6"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:279
+#: vc-addons/themeum-package-search.php:293
+#: vc-addons/themeum-package-search.php:557
+#: vc-addons/themeum-package-search.php:571
+#: vc-addons/themeum-package-search2.php:270
+#: vc-addons/themeum-package-search2.php:284
+msgid "7"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:280
+#: vc-addons/themeum-package-search.php:294
+#: vc-addons/themeum-package-search.php:558
+#: vc-addons/themeum-package-search.php:572
+#: vc-addons/themeum-package-search2.php:271
+#: vc-addons/themeum-package-search2.php:285
+msgid "8"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:284
+#: vc-addons/themeum-package-search.php:562
+#: vc-addons/themeum-package-search2.php:275
+msgid "Kids"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:286
+#: vc-addons/themeum-package-search.php:564
+#: vc-addons/themeum-package-search2.php:277
+msgid "0"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:317
+#: vc-addons/themeum-package-search.php:595
+msgid "Pickup Date & Time"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:321
+#: vc-addons/themeum-package-search.php:599
+msgid "Hours"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:322
+#: vc-addons/themeum-package-search.php:600
+msgid "How many hours do you need?"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:329
+#: vc-addons/themeum-package-search.php:330
+#: vc-addons/themeum-package-search.php:607
+#: vc-addons/themeum-package-search.php:608
+msgid "Pickup Location"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:382
+msgid "Select a Location"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:638
+msgid "Themeum Advance Search"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:651
+#: vc-addons/themeum-package-search.php:660
+#: vc-addons/themeum-package-search.php:669
+#: vc-addons/themeum-package-search.php:678
+#: vc-addons/themeum-package-search.php:688
+#: vc-addons/themeum-package-search2.php:377
+#: vc-addons/themeum-package-search2.php:386
+#: vc-addons/themeum-package-search2.php:395
+#: vc-addons/themeum-package-search2.php:404
+msgid "Enable"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:652
+#: vc-addons/themeum-package-search.php:661
+#: vc-addons/themeum-package-search.php:670
+#: vc-addons/themeum-package-search.php:679
+#: vc-addons/themeum-package-search.php:687
+#: vc-addons/themeum-package-search2.php:378
+#: vc-addons/themeum-package-search2.php:387
+#: vc-addons/themeum-package-search2.php:396
+#: vc-addons/themeum-package-search2.php:405 vc-addons/themeum-slider2.php:236
+msgid "Disable"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:657
+#: vc-addons/themeum-package-search2.php:383
+msgid "Hotel"
+msgstr ""
+
+#: vc-addons/themeum-package-search.php:684
+msgid "Boxed Mode"
+msgstr ""
+
+#: vc-addons/themeum-package-search2.php:333
+#: vc-addons/themeum-package-search2.php:335
+msgid "Vehicle Type"
+msgstr ""
+
+#: vc-addons/themeum-package-search2.php:364
+msgid "Themeum Advance Search 2"
+msgstr ""
+
+#: vc-addons/themeum-partner.php:106
+msgid "Themeum Partner"
+msgstr ""
+
+#: vc-addons/themeum-partner.php:131
+msgid "Partner Item"
+msgstr ""
+
+#: vc-addons/themeum-partner.php:144
+msgid "Parter Link"
+msgstr ""
+
+#: vc-addons/themeum-partner.php:150
+msgid "Upload Slider Image"
+msgstr ""
+
+#: vc-addons/themeum-persons.php:93
+msgid "Upload Person Image"
+msgstr ""
+
+#: vc-addons/themeum-persons.php:100
+msgid "Person Name"
+msgstr ""
+
+#: vc-addons/themeum-persons.php:107
+msgid "Team Designation"
+msgstr ""
+
+#: vc-addons/themeum-persons.php:114
+msgid "Person Description Text"
+msgstr ""
+
+#: vc-addons/themeum-persons.php:142
+msgid "Linkedin URL"
+msgstr ""
+
+#: vc-addons/themeum-persons.php:149
+msgid "Pinterest URL"
+msgstr ""
+
+#: vc-addons/themeum-persons.php:156
+msgid "Delicious URL"
+msgstr ""
+
+#: vc-addons/themeum-persons.php:163
+msgid "Tumblr URL"
+msgstr ""
+
+#: vc-addons/themeum-persons.php:170
+msgid "Stumbleupon URL"
+msgstr ""
+
+#: vc-addons/themeum-persons.php:177
+msgid "Dribble URL"
+msgstr ""
+
+#: vc-addons/themeum-persons.php:184
+msgid "Class"
+msgstr ""
+
+#: vc-addons/themeum-popup-video.php:75
+msgid "Popup Video"
+msgstr ""
+
+#: vc-addons/themeum-popup-video.php:157
+msgid "Video URL"
+msgstr ""
+
+#: vc-addons/themeum-slider2.php:213
+msgid "Themeum Slider 2"
+msgstr ""
+
+#: vc-addons/themeum-slider2.php:234
+msgid "Disable Auto Slide: "
+msgstr ""
+
+#: vc-addons/themeum-slider2.php:237
+msgid "If you want disable slide check this."
+msgstr ""
+
+#: vc-addons/themeum-slider2.php:242
+msgid "Sliding Time(Milliseconds Ex: 4000)"
+msgstr ""
+
+#: vc-addons/themeum-slider2.php:253
+msgid "Themeum Slider2 Item"
+msgstr ""
+
+#: vc-addons/themeum-slider2.php:264
+msgid "Slider Type"
+msgstr ""
+
+#: vc-addons/themeum-slider2.php:285
+msgid "Intro Text"
+msgstr ""
+
+#: vc-addons/themeum-slider2.php:287
+msgid "Slider Intro Text"
+msgstr ""
+
+#: vc-addons/themeum-slider2.php:292
+msgid "Add Button URL"
+msgstr ""
+
+#: vc-addons/themeum-slider2.php:294
+msgid "Add URL"
+msgstr ""
+
+#: vc-addons/themeum-slider2.php:299
+msgid "Add Button Text"
+msgstr ""
+
+#: vc-addons/themeum-slider2.php:304
+msgid "Upload Icon Image"
+msgstr ""
+
+#: vc-addons/themeum-slider2.php:310
+msgid "Upload Slider Background Image"
+msgstr ""
+
+#: vc-addons/themeum-title.php:102
+msgid "Title Layout"
+msgstr ""
+
+#: vc-addons/vehicle-listing.php:113
+msgid "Vehicle listing"
+msgstr ""
+
+#: vc-addons/vehicle-listing.php:117
+msgid "Widget title heading"
+msgstr ""
+
+#: vc-addons/vehicle-listing.php:123
+msgid "Category filter"
+msgstr ""
+
+#: vc-addons/vehicle-listing.php:137
+msgid "Number of column"
+msgstr ""
+
+#: widgets/image_widget.php:13
+msgid "themeum Image Ads"
+msgstr ""
+
+#: widgets/image_widget.php:13
+msgid "This Image Ads Widgets"
+msgstr ""
+
+#: widgets/image_widget.php:36
+msgid "Ads"
+msgstr ""
+
+#: widgets/image_widget.php:76
+msgid "Title : "
+msgstr ""
+
+#: widgets/image_widget.php:81
+msgid "Ads Link"
+msgstr ""
+
+#: widgets/image_widget.php:85
+msgid "Ads Image URL"
+msgstr ""
+
+#: widgets/image_widget.php:88 widgets/themeum_about_widget.php:110
+msgid "Upload image"
+msgstr ""
+
+#: widgets/themeum_about_widget.php:13
+msgid "Themeum About Us Widgets"
+msgstr ""
+
+#: widgets/themeum_about_widget.php:13
+msgid "This About Us Widgets"
+msgstr ""
+
+#: widgets/themeum_about_widget.php:34
+msgid "image"
+msgstr ""
+
+#: widgets/themeum_about_widget.php:44
+msgid "Email: "
+msgstr ""
+
+#: widgets/themeum_about_widget.php:48
+msgid "Fax: "
+msgstr ""
+
+#: widgets/themeum_about_widget.php:52
+msgid "Phone: "
+msgstr ""
+
+#: widgets/themeum_about_widget.php:102 widgets/themeum_social_share.php:128
+msgid "Title :"
+msgstr ""
+
+#: widgets/themeum_about_widget.php:107
+msgid "About Image URL"
+msgstr ""
+
+#: widgets/themeum_about_widget.php:115
+msgid "About Text :"
+msgstr ""
+
+#: widgets/themeum_about_widget.php:121
+msgid "Email ID: "
+msgstr ""
+
+#: widgets/themeum_about_widget.php:126
+msgid "Fax No: "
+msgstr ""
+
+#: widgets/themeum_about_widget.php:131
+msgid "Phone No: "
+msgstr ""
+
+#: widgets/themeum_social_share.php:13
+msgid "Themeum Social Share Widgets"
+msgstr ""
+
+#: widgets/themeum_social_share.php:13
+msgid "This Social Share Widgets"
+msgstr ""
+
+#: widgets/themeum_social_share.php:133
+msgid "Facebook URL: "
+msgstr ""
+
+#: widgets/themeum_social_share.php:138
+msgid "Twitter URL: "
+msgstr ""
+
+#: widgets/themeum_social_share.php:143
+msgid "Google Plus URL: "
+msgstr ""
+
+#: widgets/themeum_social_share.php:148
+msgid "Linkedin URL: "
+msgstr ""
+
+#: widgets/themeum_social_share.php:153
+msgid "RSS URL: "
+msgstr ""
+
+#: widgets/themeum_social_share.php:158
+msgid "Pinterest URL: "
+msgstr ""
+
+#: widgets/themeum_social_share.php:163
+msgid "Youtube URL: "
+msgstr ""
+
+#: widgets/themeum_social_share.php:168
+msgid "Instagram URL: "
+msgstr ""
+
+#: widgets/themeum_social_share.php:173
+msgid "Vimeo URL: "
+msgstr ""
+
+#: widgets/themeum_social_share.php:178
+msgid "Dribble URL: "
+msgstr ""

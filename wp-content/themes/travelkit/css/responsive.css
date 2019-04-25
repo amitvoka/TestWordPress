@@ -1,0 +1,1056 @@
+/* ==========================================================================
+responsive
+========================================================================== */
+
+
+@media (max-width: 1240px) {
+  .footer-wrap .bottom >.container {
+    width: auto;
+  }
+  #comingsoon-countdown .countdown-amount{
+    font-size: 100px;
+  }
+}
+
+@media (min-width: 961px) and (max-width: 1199px) {
+  .navbar-header {
+    width: 75%;
+    padding-left: 15px;
+  }
+  .logo-wrapper h1 {
+    margin-top: 16px;
+  }
+  /*Footer Widget*/
+  .bottom .widget_text {
+    min-height: 110px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px){
+  /*Slider Area*/
+  .rs-looped.rs-slideloop {
+    font-size: 60px !important;
+  }
+  #masthead.sticky {
+    position: absolute !important;
+  }
+  .tp-leftarrow.tparrows.uranus{
+    -webkit-transform: matrix(1, 0, 0, 1, 20, -25) !important;
+    transform: matrix(1, 0, 0, 1, 20, -25) !important;
+  }
+  .cuisine-chef-title {
+    font-size: 45px;
+  }
+  .cuisine-chef-designation {
+    font-size: 48px;
+    margin-bottom: 15px;
+  }
+  .menuoffer-fancy-cta-title {
+    margin: 0 0 40px;
+    font-size: 45px !important;
+  }
+  .menuoffer-fancy-cta-icon {
+    font-size: 100px !important;
+  }
+  .special-dish-content.container{
+    padding: 0;
+  }
+  .addon-special-dishes .special-dish-content-inner .special-dish-sub-title {
+    font-size: 50px;
+  }
+  .addon-themeum-title .style-sub-title {
+    font-size: 50px !important;
+    margin-bottom: 35px !important;
+  }
+  .book-table .table-book-content {
+    padding: 30px 40px 40px 0px;
+  }
+  .half-section.overlay-hidden{
+    padding: 50px 0 60px!important;
+  }
+  .fixed-bg.responsive-pad{
+    padding: 80px 0 !important;
+  }
+  .bottom {
+    padding: 50px 0 70px;
+  }
+  .banner-pad-fix .take-reservation .vc_column-inner{
+    padding: 25px !important;
+  }
+  .responsive-pad .addon-themeum-title .style-sub-title {
+    font-size: 30px !important;
+    margin-bottom: 35px !important;
+  }
+}
+@media (min-width: 768px) and (max-width: 960px){
+  .common-menu-wrap .nav>li>a {
+    padding: 0;
+    margin: 0px 6px;
+  }
+  .common-menu .common-menu-wrap .nav>li>a {
+    font-size: 12px;
+  }
+  .vc_column-inner  {
+    width: 100%;
+  }
+  .cuisine-modul{
+    margin-top: 8px;
+  }
+  .social-share ul li {
+    display: inline-block;
+    margin-left: 5px;
+  }
+  /*Footer Widget*/
+  .bottom .widget_text {
+    min-height: 110px;
+  }
+  .package-search-wrapper-v2 .thm-tk-search .thm-tk-search-nav ul li a {
+    padding: 0 22px;
+  }
+}
+
+@media only screen and (max-width: 992px){
+  .header.header-borderimage .navbar-toggle,
+  .header.header-solid .navbar-toggle{
+    color: #000;
+  }
+  .navbar-collapse.collapse {
+    display: none !important;
+    overflow: hidden !important;
+  }
+  .navbar-collapse.collapse.in {
+    display: block !important;
+  }
+  .navbar-collapse {
+    width: auto;
+    border-top: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+  .navbar-toggle{
+    display: block;
+    margin-top: 20px;
+    padding: 0 15px;
+  }
+  .navbar-nav{
+    float: none;
+  }
+  .navbar-nav>li {
+    float: none;
+  }
+  .menuoffer-addon .menuoffer-img-container {
+    display: none;
+  }
+  .addon-special-dishes .special-dish-content-inner {
+    padding: 60px 0 0;
+  }
+  .menuoffer-addon .menuoffer-addon-content {
+    padding: 40px;
+  }
+  .menuoffer-addon .col-md-7 {
+    margin-top: 0;
+  }
+
+  .packagedetailin:before{
+    top: 100px;
+  }
+  .nav-tabs>li {
+    margin-bottom: 5px;
+  }
+  .package-sidebar {
+    margin-top: 130px;
+  }
+  .package-sidebar ul li span{
+    width: 100%;
+  }
+  .package-location-shortcode .package-location {
+    margin-bottom: 20px;
+  }
+  .themeum-latest-post{
+    margin-bottom: 30px;
+  }
+  .addon-special-dishes .special-dish-content-inner .special-dish-sub-title {
+    color: #000;
+    margin-bottom: 20px;
+  }
+  .addon-special-dishes >div>div >div:nth-child(2):before,
+  .addon-special-dishes >div>div >div:last-child:before{
+    display: none;
+  }
+  .addon-special-dishes .special-dish-title {
+    color: #e7272d;
+  }
+  .wpb_wrapper .entry-content-list {
+    background-image: none !important;
+    padding-top: 40px!important;
+    padding-bottom: 60px !important;
+  }
+  .fancy-menu-img-container .fancy-menu-position {
+    display: none;
+  }
+  .fancy-menu-items h4 {
+    font-size: 16px;
+  }
+  .themeum-feature-carosuel .thm-feature-carosuel img,
+  .owl-item.active.last-owl-active-item{
+    -webkit-transition: .3s;
+    transition: .3s;
+  }
+  .themeum-feature-carosuel .thm-feature-carosuel img{
+    opacity: .1;
+  }
+  .owl-item.active.last-owl-active-item .thm-feature-carosuel img{
+    opacity: 1;
+  }
+  .owl-item.active.last-owl-active-item .thm-feature-carosuel-info {
+    -webkit-transition: .3s;
+    transition: .3s;
+    opacity: 1;
+    visibility: visible;
+    position: relative;
+    margin-top: 50px;
+  }
+
+  /* hotel-info */
+  .tour-video.leading .btn-video {
+    font-size: 50px;
+  }
+  .tour-video.leading .title {
+    padding: 20px;
+  }
+  /* Package Search */
+  .thm-tk-search .thm-tk-search-form .thm-tk-tab .thm-tk-tab-inner label{
+    margin-bottom: 5px;
+  }
+  .thm-tk-search .thm-tk-search-form .thm-tk-tab .thm-tk-input-first {
+    border-radius: 0 !important;
+  }
+  .thm-tk-search .thm-tk-search-form .thm-tk-tab .thm-tk-input-5-1,
+  .thm-tk-search .thm-tk-search-form .thm-tk-tab .thm-tk-input-15{
+    width: 33.333%;
+    margin-bottom: 10px;
+  }
+  .thm-tk-search .thm-tk-search-form .thm-tk-tab .thm-tk-tab-inner label{
+    margin-bottom: 5px;
+  }
+  .thm-tk-search .thm-tk-search-form .thm-tk-tab .thm-tk-tab-inner form{
+    padding-right: 0;
+  }
+  .thm-tk-search .thm-tk-search-form .thm-tk-tab .thm-tk-search-btn {
+    border-radius: 4px;
+    position: relative;
+    margin-top: 10px;
+  }
+  .thm-tk-search .thm-tk-search-form {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 16px;
+  }
+  .photo-gallery-item .photo-gallery-items.single-col{
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  .photo-gallery-item .photo-gallery-items.single-col img{
+    width: 100%;
+  }
+  .photo-gallery-item .photo-gallery-items.column{
+    width: 50%;
+    float: left;
+  }
+  .mc4wp-form-fields input[type="email"]{
+    width: 76%;
+  }
+  .mc4wp-form-fields input[type=submit]{
+    width: 24%;
+  }
+  .col6.col6-input input{
+    width: 47%;
+  }
+  /* bottom-widget */
+  .bottom-widget:not(:last-child){
+    margin-bottom: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  /* Global Typograph */
+  body{
+    font-size: 13px !important;
+  }
+  h1{
+    font-size: 30px !important;
+    line-height: 1.2 !important;
+  }
+  h2{
+    font-size: 25px !important;
+    line-height: 1.2 !important;
+  }
+  h3{
+    font-size: 20px !important;
+    line-height: 1.2 !important;
+  }
+  h4{
+    font-size: 18px !important;
+    line-height: 1.2 !important;
+  }
+  .select2-container--default .select2-selection--single,
+  select,
+  textarea,
+  input[type="text"],
+  input[type="password"],
+  input[type="datetime"],
+  input[type="datetime-local"],
+  input[type="date"],
+  input[type="month"],
+  input[type="time"],
+  input[type="week"],
+  input[type="number"],
+  input[type="email"],
+  input[type="url"],
+  input[type="search"],
+  input[type="tel"],
+  input[type="color"],
+  .uneditable-input{
+    font-size: 13px;
+    min-height: 44px;
+    padding: 10px;
+  }
+  /* mixed responsive */
+  body .thm-res-margin{
+    margin-top: 50px !important;
+    margin-bottom: 50px !important;
+  }
+  body .thm-res-padding{
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+  }
+  body .thm-res-mixed-padding{
+    padding: 50px 0 100px !important;
+  }
+
+  /*header*/
+  #masthead.sticky {
+    position: absolute !important;
+    background: transparent !important;
+  }
+  .subtitle-cover .breadcrumb {
+    margin-top: 0;
+  }
+  /*menu*/
+  #mobile-menu .menuright {
+    margin-top: -20px;
+  }
+  .common-menu .social-share ul {
+    margin: 0 45px 0 0;
+  }
+  .fancy-menu-content .no-gutter {
+    margin-left: -15px;
+    margin-right: -15px;
+  }
+  .half-section:before, .half-section:after {
+    top:auto;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .half-section .vc_column_container>.vc_column-inner {
+    padding-left: 30px;
+  }
+  .half-section:after {
+    left: 0;
+    height: 50%;
+    bottom: 0;
+  }
+  .thm-tk-search .thm-tk-search-nav ul li a i:after{
+    bottom: -2px;
+  }
+  /* slider arrows*/
+  body .rev_slider_wrapper  .tp-title-wrap{
+    display: none;
+  }
+  body .rev_slider_wrapper .tparrows{
+    top: inherit !important;
+    bottom: 30px;
+    left: 30px !important;
+    transform: initial !important;
+    width: 20px !important;
+    height: 20px !important;
+    min-width: inherit !important;
+    min-height: inherit !important;
+    background: none !important;
+  }
+  body .rev_slider_wrapper .tparrows:before{
+    line-height: 1 !important;
+    font-size: 20px !important;
+  }
+  body .rev_slider_wrapper .tparrows:hover:before,
+  body .rev_slider_wrapper .tparrows:focus:before{
+    color: #00aeef !important;
+  }
+  body .rev_slider_wrapper .tp-rightarrow.tparrows{
+    left: 55px !important;
+  }
+  .home-two-crousel .carousel-control{
+    position: absolute;
+    top: inherit;
+    bottom: 30px;
+    width: inherit;
+  }
+  .home-two-crousel .carousel-control.left{
+    right: 50px;
+    left: initial;
+  }
+  .home-two-crousel .controller-prev i,
+  .home-two-crousel .controller-next i{
+    height: 33px;
+    line-height: 30px;
+    margin-top: 0;
+    position: initial;
+  }
+  .home-two-crousel .item .container .slider-content .vertical-middle {
+    margin-top: 190px;
+  }
+  .slider-content h2{
+    margin-bottom: 0;
+  }
+  .home-two-crousel .slider-content .bordered-button {
+    font-weight: 400;
+    font-size: 14px;
+    padding: 5px 22px;
+  }
+  .home-two-crousel .slider-intro-text{
+    font-size: 14px;
+  }
+  .themeum-latest-post a.review-item-image img{
+    width: 100%;
+  }
+  .package-list-content{
+    padding: 20px;
+  }
+  body .thm-titlestandardstyle{
+    font-size: 22px !important;
+  }
+  .thm-sub-titlestandardstylesub{
+    font-size: 13px;
+  }
+  .themeum-partner img:hover{
+    cursor: move;
+  }
+  .home-two-crousel .item{
+    height: 550px;
+  }
+  /*  package details */
+  .package-nav-tab.nav-tabs{
+    overflow: hidden;
+  }
+  .package-single .subtitle-cover {
+    padding: 110px 0 50px;
+    margin-bottom: 50px;
+  }
+  .package-details-wrap >.container{
+    margin-top: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .buynowbtn.btn{
+    margin-right: 15px;
+  }
+  .package-details-choose ul li {
+    width: 50%;
+  }
+  /* package-search */
+  body .package-search-wrapper{
+    margin-top: 0 !important;
+    background-color: #333 !important;
+  }
+  .thm-tk-search .thm-tk-search-nav ul li a,
+  .thm-tk-search .thm-tk-search-form{
+    font-size: 13px;
+  }
+  .thm-tk-search .thm-tk-search-nav ul li a i {
+    font-size: 28px;
+    margin-top: -43px;
+    margin-bottom: 8px;
+  }
+  .thm-tk-search .thm-tk-search-form .thm-tk-tab .thm-tk-search-btn{
+    padding: 10px 28px;
+  }
+  .thm-tk-search .thm-tk-search-nav ul li a{
+    padding: 0px 10px;
+  }
+  .thm-tk-search .thm-tk-search-nav ul li {
+    margin: 0 15px;
+  }
+
+  .hotel-details-roomtype span.price {
+    font-size: 25px;
+  }
+  .tour-video img{
+    width: 100%;
+  }
+  .tour-video.leading .btn-video,
+  .tour-video .btn-video {
+    font-size: 100px;
+  }
+
+  /* sidebar */
+  .package-sidebar{
+    margin-top: 30px;
+  }
+  /*footer*/
+  .footer-wrap ul {
+    text-align: center;
+  }
+  .col-sm-6.text-right {
+    text-align: center;
+  }
+
+  .fancy-menu-content .fancy-menu-innner {
+    padding: 90px 30px 150px;
+  }
+  .featured-wrap {
+    min-height: auto;
+  }
+  article.post .entry-blog .blog-date{
+    left: 20px;
+    padding: 10px 5px;
+    top: -70px;
+    width: 80px;
+  }
+  article.post .entry-blog .blog-date time>span {
+    font-size: 32px;
+  }
+
+  article.post.hentry {
+    margin-bottom: 50px;
+  }
+  .themeum-pagination ul {
+    margin: 0 auto;
+  }
+  .comments-area.comments ul li ul.children {
+    padding-left: 0;
+    margin-top: 30px;
+  }
+  .cuisine-bottom-top {
+    margin-top: 50px;
+  }
+  .addon-themeum-title .style-sub-title {
+    font-size: 32px !important;
+  }
+  .addon-special-dishes .special-dish-content-inner {
+    padding: 60px 0 0;
+  }
+  #rev_slider_1_1 div.uranus.tparrows::before{
+    font-size: 25px !important;
+  }
+  .tp-rightarrow.tparrows.uranus{
+    -webkit-transform: matrix(1, 0, 0, 1, -50, -35) !important;
+    transform: matrix(1, 0, 0, 1, -50, -35) !important;
+  }
+  .tp-leftarrow.tparrows.uranus{
+    -webkit-transform: matrix(1, 0, 0, 1, -5, -35) !important;
+    transform: matrix(1, 0, 0, 1, -5, -35) !important;
+  }
+  .rs-looped.rs-slideloop {
+    font-size: 30px !important;
+  }
+  /*Book a Table*/
+  .fixed-bg.responsive-pad{
+    padding: 60px 0 !important;
+  }
+  /*Yelp Review*/
+  .half-section.overlay-hidden{
+    padding: 60px 0 !important;
+  }
+  .themeum-photo-gallery-item .no-padding {
+    width: 50%;
+  }
+  .themeum-person {
+    margin-bottom: 30px;
+  }
+  .themeum-person-image img {
+    width: 100%;
+  }
+  .mob-text-align-center *{
+    text-align: center !important;
+  }
+  #comingsoon-countdown .countdown-amount{
+    font-size: 60px;
+    line-height: 1;
+  }
+  #comingsoon-countdown .countdown-period{
+    font-size: 16px;
+  }
+  .comingsoon .social-share li{
+    margin: 0 8px;
+  }
+  .comingsoon .social-share li a{
+    font-size: 16px;
+  }
+  .countdown-section:not(:last-child):after{
+    display: none;
+  }
+  .countdown-section{
+    margin: 0 30px;
+  }
+  /*bottom*/
+  .bottom {
+    padding: 30px 0 60px;
+  }
+  .bottom-widget .widget-title{
+    margin-bottom: 15px;
+  }
+  .menuoffer-fancy-cta-text {
+    font-size: 16px;
+  }
+  .footer-wrap{
+    text-align: center;
+  }
+  .footer-wrap .social-share{
+    margin-top: 15px;
+  }
+  .error-message{
+    padding-top: 8px;
+  }
+  .info-wrapper {
+    left: 0;
+    position: relative;
+    top: 50%;
+    transform: initial;
+    width: 100%;
+    z-index: 9999;
+    text-align: center;
+  }
+  .package-search-wrapper-v2 .vc_column_container{
+    background: #fff !important;
+  }
+  .package-search-wrapper-v2 .thm-tk-search .thm-tk-search-nav{
+      background: #fff;
+  }
+  .package-search-wrapper-v2 .thm-tk-search .thm-tk-search-form {
+      background: #fff;
+  }
+  .tour-offer.vc_row{
+    background-position: center left !important;
+  }
+}
+
+@media (max-width: 489px) {
+  p,.btn{
+    font-size: 13px;
+  }
+
+  /* Package search */
+  .package-search-wrapper div>.vc_column-inner {
+    padding: 0 !important;
+  }
+  .thm-tk-search-form{
+    padding: 20px 15px;
+  }
+  .thm-tk-search-nav{
+    background: #000;
+    padding: 15px 10px;
+  }
+  .thm-tk-search-v2 .thm-tk-search-nav{
+    background: #fff;
+  }
+  .thm-tk-search .thm-tk-search-nav ul{
+    text-align: left;
+  }
+  .thm-tk-search .thm-tk-search-nav ul li {
+    margin: 0;
+  }
+  .thm-tk-search .thm-tk-search-nav ul li a {
+    padding: 0 15px 0 0;
+  }
+  .thm-tk-search .thm-tk-search-nav ul li a i{
+    display: none;
+  }
+  .thm-tk-search .thm-tk-search-nav ul li a i{
+    padding-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .thm-tk-search .thm-tk-search-form .thm-tk-tab .thm-tk-input-3-1,
+  .thm-tk-search .thm-tk-search-form .thm-tk-tab .thm-tk-input-4-1,
+  .thm-tk-search .thm-tk-search-form .thm-tk-tab .thm-tk-input-5-1,
+  .thm-tk-search .thm-tk-search-form .thm-tk-tab .thm-tk-input-15{
+    width: 50%;
+    margin-bottom: 10px;
+  }
+  .thm-tk-search .thm-tk-search-form .thm-tk-tab#vehicles .thm-tk-search-btn{
+    margin-top: 30px;
+    margin-left: 10px;
+  }
+  .thm-tk-search-v2.thm-tk-search .thm-tk-search-nav ul li a{
+    padding: 15px 10px;
+  }
+  .thm-tk-search-v2.thm-tk-search .thm-tk-search-form .thm-tk-tab .thm-tk-tab-inner form {
+    padding: 15px 0;
+  }
+  .package-search-wrapper-v2 .thm-tk-search .thm-tk-search-nav ul li a:after{
+    bottom: -3px;
+  }
+  .package-search-wrapper-v2 .thm-tk-search .thm-tk-search-nav ul li a {
+    padding: 0 10px;
+  }
+  .addon-themeum-action .themeum-action{
+    padding: 0 15px;
+  }
+  .action-sub-titlecustomstylesub{
+    font-size: 14px !important;
+  }
+  .package-location-v2 .package-location:nth-child(2n+1) {
+    clear: left;
+  }
+  .package-location-shortcode.package-location-v2 .package-location img {
+    width: inherit;;
+  }
+  .package-location-shortcode.package-location-v2 .package-location {
+    height: inherit;;
+    padding: 0;
+  }
+  .package-nav-tab.nav-tabs{
+    clear: both;
+  }
+  .package-nav-tab.nav-tabs>li>a{
+    padding: 3px 10px;
+    font-size: 13px;
+  }
+  .package-details-choose ul li {
+    width: 100%;
+  }
+  .packagedetailin:before{
+    top: 150px;
+    left: 0;
+  }
+  .packagedetailin>.pull-right{
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  .packagedetailin>.pull-right .btn{
+    display: block;
+    margin-left: 15px;
+  }
+  .package-location-shortcode .package-location {
+    width: 50%;
+  }
+  .package-location-shortcode .package-location img{
+      width: 100%;
+  }
+  .popup-video i.fa{
+    font-size: 50px !important;
+  }
+  .package-list-wrap-v3.package-list-wrap {
+    margin-bottom: 30px;
+  }
+  .tab-pane .common-media-list .media-body{
+    display: block;
+    padding-top: 15px;
+    width: 100%;
+  }
+  .tab-pane .common-media-list .pull-left img{
+    width: 100%;
+  }
+  .common-media-list.media>.pull-left {
+    padding-right: 0;
+  }
+  .package-details-hotel .media.common-media-list .pull-left{
+    width: 100%;
+    max-width: 100%;
+    margin-right: 0;
+  }
+  .package-details-hotel .media.common-media-list .pull-left img{
+    -webkit-transform: translate3d(0,0, 0);
+    transform: translate3d(0,0,0);
+  }
+  .media.common-media-list {
+    margin-top: 30px;
+  }
+  .themeum-latest-post-content{
+    padding: 20px 15px;
+  }
+
+  .addon-special-dishes .special-dish-title{
+    color: #000 !important;
+    margin-top: 20px;
+  }
+  .whitecolor .themeum-action .action-titlestandardstyle{
+    margin-bottom: 10px;
+  }
+  .whitecolor .themeum-action .action-sub-titlestandardstylesub{
+    font-size: 13px;
+    line-height: 1.4;
+  }
+  .whitecolor .themeum-action .action-sub-titlestandardstylesub br{
+    display: none;
+  }
+  .special-dish-sub-title{
+    color: #000 !important;
+  }
+  .form-submit input[type=submit] {
+    padding: 0px 12px;
+    font-size: 14px;
+  }
+  .comment-notes {
+    padding: 0 15px;
+  }
+  .entry-content-list-blog .entry-header {
+    padding: 10px;
+  }
+  .entry-blog-meta .blog-entry-title {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .entry-link-post-format, .entry-quote-post-format {
+    padding: 40px 40px 150px;
+  }
+  .entry-link-post-format h4 {
+    font-size: 26px;
+  }
+  .format-video .entry-content-list-blog .entry-header {
+    bottom: 0;
+  }
+
+  .special-dish-content-inner{
+    padding-top: 0px !important;
+  }
+
+  .special-dish-title{
+    color: #000 !important;
+  }
+
+  .special-dish-sub-title{
+    color: #000 !important;
+  }
+
+  .menu-footer-menu{
+    padding: 5px !important;
+    text-align: center;
+  }
+  .text-right{
+    text-align: center;
+    font-size: 12px;
+  }
+
+  /* Our Specility Cuisine */
+  .addon-special-dishes >div>div >div:nth-child(2):before{
+    display: none;
+  }
+  .addon-special-dishes >div>div >div:last-child:before{
+    display: none;
+  }
+  .menuoffer-addon .menuoffer-addon-content {
+    padding: 30px !important;
+    position: relative;
+    text-align: center;
+    z-index: 1;
+  }
+  .book-table .table-book-content {
+    text-align: center;
+  }
+  /*Home 2*/
+  .addon-themeum-title .style-title {
+    font-size: 40px !important;
+  }
+
+  /*Menu Logo Left Page*/
+  .addon-special-dishes .special-dish-content-inner .special-dish-sub-title {
+    font-size: 40px;
+  }
+  .special-dish-content.container{
+    padding: 0;
+  }
+  .menuoffer-fancy-cta-title {
+    font-size: 35px !important;
+    margin: 0 0 25px;
+  }
+  .cuisine-chef-title {
+    font-size: 35px !important;
+  }
+  .sub-title-inner h2.page-leading {
+    font-size: 35px;
+  }
+  .cuisine-chef-designation {
+    font-size: 45px;
+    margin-bottom: 10px;
+  }
+  .fancy-menu-title {
+    font-size: 35px !important;
+  }
+  .themeum-feature-content .feature-title {
+    font-size: 45px !important;
+  }
+  .addon-classic-menu .addon-classic-content h4 {
+    font-size: 22px;
+  }
+  .menuoffer-fancy-cta-icon {
+    font-size: 100px !important;
+  }
+
+  .comingsoon .soon-page-header {
+    font-size: 35px !important;
+  }
+  /*Pretty Photo Responsive*/
+  .pp_pic_holder.pp_default {
+    width: 100%!important;
+    left: 0!important;
+    overflow: hidden;
+  }
+  div.pp_default .pp_content_container .pp_left {
+    padding-left: 0!important;
+  }
+  div.pp_default .pp_content_container .pp_right {
+    padding-right: 0!important;
+  }
+  .pp_content {
+    width: 100%!important;
+    height: auto!important;
+  }
+  .pp_fade {
+    width: 100%!important;
+    height: 100%!important;
+  }
+  a.pp_expand, a.pp_contract, .pp_hoverContainer, .pp_gallery, .pp_top, .pp_bottom {
+    display: none!important;
+  }
+  #pp_full_res img {
+    width: 100%!important;
+    height: auto!important;
+  }
+  .pp_details {
+    background-color: #fff;
+    height: 42px;
+    margin-bottom: 0 !important;
+    margin-top: 0 !important;
+    padding: 0;
+    width: 100% !important;
+  }
+  #pp_full_res > iframe {
+    width: 100%;
+    height: 230px;
+  }
+  div.pp_default .pp_social {
+    margin-top: 11px;
+    margin-left: 10px;
+  }
+  div.pp_default .pp_close {
+    margin-top: 6px;
+    margin-right: 5px;
+  }
+  /*Coming Soon*/
+  #comingsoon-countdown{
+    display: table;
+    width: 100%;
+    text-align: center;
+  }
+  #comingsoon-countdown .countdown-section {
+    margin-right: 0;
+    display: inline-block;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  #comingsoon-countdown .countdown-section .countdown-amount{
+    font-size: 30px;
+  }
+  #comingsoon-countdown .countdown-section .countdown-period{
+    font-size: 12px;
+  }
+  .countdown-section {
+    margin: 0 15px;
+  }
+  .coming-soon-newslatter{
+    padding: 20px;
+  }
+  .comingsoon-footer{
+    margin-top: 20px;
+  }
+  .coming-soon-newslatter{
+    width: 100%;
+  }
+  /*Home Two*/
+  .vc_row.wpb_row.vc_row-fluid.banner-pad-fix {
+    padding-top: 120px !important;
+  }
+  .banner-pad-fix .btn-style-title.btn-transparent.white {
+    margin-bottom: 70px;
+  }
+  .menus-pad-fix > div{
+    display: none;
+  }
+  .vc_row.wpb_row.vc_row-fluid.row-padding-fix{
+    padding-bottom: 80px !important;
+  }
+  .media-body.themeum-feature-content .feature-title {
+    font-size: 20px !important;
+  }
+  .vc_row-fluid.responsive-pad{
+    padding: 60px 0 25px !important;
+  }
+  .addon-themeum-title.custom-font .btn-style-title.btn.btn-transparent{
+    margin-bottom: 40px;
+  }
+  .sub-title {
+    margin: 0 0 60px;
+  }
+  div.vc_row-fluid.vc_custom_1458813809876{
+    padding-bottom: 40px !important;
+  }
+  div.vc_column-inner.vc_custom_1464169866828{
+    padding-top: 30px !important;
+  }
+  div.vc_column-inner.vc_custom_1458031695615,.vc_column-inner.vc_custom_1458031358979{
+    margin-top: 30px !important;
+  }
+  .fixed-bg.vc_custom_1459327568146.vc_row-has-fill{
+    padding: 100px 0 !important;
+  }
+  .product-thumbnail-outer {
+    margin: 30px;
+  }
+  .video-section .video-caption i {
+    font-size: 100px;
+  }
+  .tour-video.leading .btn-video,
+  .tour-video .btn-video {
+    font-size: 40px;
+  }
+  .col6.col6-input input{
+    width: 100%;
+  }
+  .mc4wp-form-fields input[type="email"] {
+    width: 70%;
+  }
+  .mc4wp-form-fields input[type=submit] {
+    width: 30%;
+    padding: 13px;
+  }
+}
+
+
+@media (min-width: 320px) and (max-width: 360px) {
+  /* Package Search */
+  .package-search-wrapper-v2 .thm-tk-search .thm-tk-search-nav{
+      background: #fff;
+      margin-top: 0;
+  }
+  .package-search-wrapper-v2 .thm-tk-search .thm-tk-search-form {
+      margin-top: 0px;
+      background: #fff;
+      padding-bottom: 55px;
+  }
+
+
+  /* Package Location */
+  .package-location-shortcode .package-location {
+      height: 260px;
+  }
+
+  /* demo3 */
+  .adons-themeum-partner-carosuel .themeum-partner-carosuel .owl-item{
+    margin-left: 22px !important;
+    margin-right: 62px !important;
+  }
+
+}
+

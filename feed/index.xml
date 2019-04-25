@@ -8,12 +8,12 @@
 	>
 
 <channel>
-	<title>Test WordPress</title>
-	<atom:link href="/https://amitvoka.github.io/TestWordPress/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://amitvoka.github.io/TestWordPress</link>
-	<description>Just another WordPress site</description>
+	<title>aeropex airlines</title>
+	<atom:link href="https://amitvoka.github.io/TestWordPress/feed/" rel="self" type="application/rss+xml" />
+	<link>https://amitvoka.github.io/TestWordPress</link>
+	<description></description>
 	<lastBuildDate>
-	Wed, 24 Apr 2019 17:29:44 +0000	</lastBuildDate>
+	Wed, 24 Apr 2019 19:07:35 +0000	</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,20 +21,175 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.1.1</generator>
 	<item>
-		<title>Hello world!</title>
-		<link>/https://amitvoka.github.io/TestWordPress/2019/04/24/hello-world/</link>
-				<comments>/https://amitvoka.github.io/TestWordPress/2019/04/24/hello-world/#comments</comments>
-				<pubDate>Wed, 24 Apr 2019 17:29:44 +0000</pubDate>
+		<title>City is the cultural and religious centre</title>
+		<link>https://amitvoka.github.io/TestWordPress/2016/07/28/small-country-in-south-east-asia/</link>
+				<comments>https://amitvoka.github.io/TestWordPress/2016/07/28/small-country-in-south-east-asia/#comments</comments>
+				<pubDate>Thu, 28 Jul 2016 09:58:41 +0000</pubDate>
+		<dc:creator><![CDATA[test]]></dc:creator>
+				<category><![CDATA[Feugiat Nulla]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[hotel]]></category>
+		<category><![CDATA[travel]]></category>
+
+		<guid isPermaLink="false">http://demo.themeum.com/wordpress/travelkit/?p=242</guid>
+				<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</p>
+<h4><span style="color: #33cccc">Duis autem vel eum iriure dolor in hendrerit in vulputate.</span></h4>
+<p>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</p>
+<p>vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+							<wfw:commentRss>https://amitvoka.github.io/TestWordPress/2016/07/28/small-country-in-south-east-asia/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+							</item>
+		<item>
+		<title>Dan’s dad at the top of Masada aliquip</title>
+		<link>https://amitvoka.github.io/TestWordPress/2016/07/28/dans-dad-at-the-top-of-masada-the-ramp-built/</link>
+				<comments>https://amitvoka.github.io/TestWordPress/2016/07/28/dans-dad-at-the-top-of-masada-the-ramp-built/#comments</comments>
+				<pubDate>Thu, 28 Jul 2016 09:55:17 +0000</pubDate>
 		<dc:creator><![CDATA[test]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">/https://amitvoka.github.io/TestWordPress/?p=1</guid>
-				<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-								<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+		<guid isPermaLink="false">http://demo.themeum.com/wordpress/travelkit/?p=199</guid>
+				<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</p>
+<h4><span style="color: #33cccc">Duis autem vel eum iriure dolor in hendrerit in vulputate.</span></h4>
+<p>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</p>
+<p><img class="alignnone size-full wp-image-822" src="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/07/2071528.jpg" alt="2071528" width="1600" height="1200" /></p>
+<p>vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</p>
 ]]></content:encoded>
-							<wfw:commentRss>/https://amitvoka.github.io/TestWordPress/2019/04/24/hello-world/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
+							<wfw:commentRss>https://amitvoka.github.io/TestWordPress/2016/07/28/dans-dad-at-the-top-of-masada-the-ramp-built/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+							</item>
+		<item>
+		<title>Ruins from the earthquake in the world</title>
+		<link>https://amitvoka.github.io/TestWordPress/2016/07/28/ruins-from-the-earthquake-that-destroyed-the-city/</link>
+				<comments>https://amitvoka.github.io/TestWordPress/2016/07/28/ruins-from-the-earthquake-that-destroyed-the-city/#respond</comments>
+				<pubDate>Thu, 28 Jul 2016 09:54:22 +0000</pubDate>
+		<dc:creator><![CDATA[test]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://demo.themeum.com/wordpress/travelkit/?p=198</guid>
+				<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</p>
+<h4><span style="color: #33cccc">Duis autem vel eum iriure dolor in hendrerit in vulputate.</span></h4>
+<p>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</p>
+<p><img class="alignnone size-full wp-image-818" src="http://demo.themeum.com/wordpress/wptravelkit/demo2/wp-content/uploads/sites/2/2016/07/1930760.jpg" alt="1930760" width="5616" height="3744" /></p>
+<p>vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://amitvoka.github.io/TestWordPress/2016/07/28/ruins-from-the-earthquake-that-destroyed-the-city/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Herod’s former palace swimming pool at Caesarea.</title>
+		<link>https://amitvoka.github.io/TestWordPress/2016/07/28/herods-former-palace-swimming-pool-at-caesarea/</link>
+				<comments>https://amitvoka.github.io/TestWordPress/2016/07/28/herods-former-palace-swimming-pool-at-caesarea/#respond</comments>
+				<pubDate>Thu, 28 Jul 2016 09:53:01 +0000</pubDate>
+		<dc:creator><![CDATA[test]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://demo.themeum.com/wordpress/travelkit/?p=197</guid>
+				<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</p>
+<h4><span style="color: #00ffff">Efficiently visualize cross functional e-commerce without vertical benefits.</span></h4>
+<p>Rapidiously procrastinate client-centric process improvements via effective meta-services. Professionally unleash innovative vortals without market-driven functionalities. Seamlessly maximize resource sucking “outside the box” thinking through team building materials. Efficiently evisculate open-source meta-services through highly efficient alignments.</p>
+<p>Competently productivate optimal markets via state of the art services. Competently streamline bricks-and-clicks synergy through market-driven infrastructures. Professionally negotiate client-focused growth strategies vis-a-vis effective infrastructures. Competently procrastinate intermandated systems before performance based value. Efficiently incubate market positioning growth strategies via functional technology.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://amitvoka.github.io/TestWordPress/2016/07/28/herods-former-palace-swimming-pool-at-caesarea/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>The Italian Job: A Quick 3 Days in Rome &#038; sed diam</title>
+		<link>https://amitvoka.github.io/TestWordPress/2016/07/28/the-italian-job-a-quick-3-days-in-rome-sed-diam/</link>
+				<comments>https://amitvoka.github.io/TestWordPress/2016/07/28/the-italian-job-a-quick-3-days-in-rome-sed-diam/#respond</comments>
+				<pubDate>Thu, 28 Jul 2016 09:52:22 +0000</pubDate>
+		<dc:creator><![CDATA[test]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://demo.themeum.com/wordpress/travelkit/?p=196</guid>
+				<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</p>
+<h4><span style="color: #000080">Competently myocardinate integrated process </span></h4>
+<p>Rapidiously procrastinate client-centric process improvements via effective meta-services. Professionally unleash innovative vortals without market-driven functionalities. Seamlessly maximize resource sucking “outside the box” thinking through team building materials. Efficiently evisculate open-source meta-services through highly efficient alignments.</p>
+<p>Competently productivate optimal markets via state of the art services. Competently streamline bricks-and-clicks synergy through market-driven infrastructures. Professionally negotiate client-focused growth strategies vis-a-vis effective infrastructures. Competently procrastinate intermandated systems before performance based value. Efficiently incubate market positioning growth strategies via functional technology.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://amitvoka.github.io/TestWordPress/2016/07/28/the-italian-job-a-quick-3-days-in-rome-sed-diam/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Dog Sledding in Superior National Forest</title>
+		<link>https://amitvoka.github.io/TestWordPress/2016/07/28/dog-sledding-in-superior-national-forest-ely-minnesota/</link>
+				<comments>https://amitvoka.github.io/TestWordPress/2016/07/28/dog-sledding-in-superior-national-forest-ely-minnesota/#respond</comments>
+				<pubDate>Thu, 28 Jul 2016 09:50:16 +0000</pubDate>
+		<dc:creator><![CDATA[test]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://demo.themeum.com/wordpress/travelkit/?p=195</guid>
+				<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan</p>
+]]></content:encoded>
+							<wfw:commentRss>https://amitvoka.github.io/TestWordPress/2016/07/28/dog-sledding-in-superior-national-forest-ely-minnesota/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Hardest step is going to be coming up with a name</title>
+		<link>https://amitvoka.github.io/TestWordPress/2016/07/28/hardest-step-is-going-to-be-coming-up-with-a-name/</link>
+				<comments>https://amitvoka.github.io/TestWordPress/2016/07/28/hardest-step-is-going-to-be-coming-up-with-a-name/#respond</comments>
+				<pubDate>Thu, 28 Jul 2016 09:49:01 +0000</pubDate>
+		<dc:creator><![CDATA[test]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://demo.themeum.com/wordpress/travelkit/?p=192</guid>
+				<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan</p>
+]]></content:encoded>
+							<wfw:commentRss>https://amitvoka.github.io/TestWordPress/2016/07/28/hardest-step-is-going-to-be-coming-up-with-a-name/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>The first step to coming up with a travel blog name</title>
+		<link>https://amitvoka.github.io/TestWordPress/2016/07/28/the-first-step-to-coming-up-with-a-travel-blog-name/</link>
+				<comments>https://amitvoka.github.io/TestWordPress/2016/07/28/the-first-step-to-coming-up-with-a-travel-blog-name/#respond</comments>
+				<pubDate>Thu, 28 Jul 2016 09:48:45 +0000</pubDate>
+		<dc:creator><![CDATA[test]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://demo.themeum.com/wordpress/travelkit/?p=193</guid>
+				<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan</p>
+]]></content:encoded>
+							<wfw:commentRss>https://amitvoka.github.io/TestWordPress/2016/07/28/the-first-step-to-coming-up-with-a-travel-blog-name/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Traveling couple from Germany</title>
+		<link>https://amitvoka.github.io/TestWordPress/2016/07/28/met-an-addicted-to-traveling-couple-from-germany/</link>
+				<comments>https://amitvoka.github.io/TestWordPress/2016/07/28/met-an-addicted-to-traveling-couple-from-germany/#respond</comments>
+				<pubDate>Thu, 28 Jul 2016 09:48:31 +0000</pubDate>
+		<dc:creator><![CDATA[test]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://demo.themeum.com/wordpress/travelkit/?p=194</guid>
+				<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan</p>
+]]></content:encoded>
+							<wfw:commentRss>https://amitvoka.github.io/TestWordPress/2016/07/28/met-an-addicted-to-traveling-couple-from-germany/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Well-designed site, a good brand, and a lot of content</title>
+		<link>https://amitvoka.github.io/TestWordPress/2016/07/28/well-designed-site-a-good-brand-and-a-lot-of-content/</link>
+				<comments>https://amitvoka.github.io/TestWordPress/2016/07/28/well-designed-site-a-good-brand-and-a-lot-of-content/#respond</comments>
+				<pubDate>Thu, 28 Jul 2016 09:44:16 +0000</pubDate>
+		<dc:creator><![CDATA[test]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://demo.themeum.com/wordpress/travelkit/?p=191</guid>
+				<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan</p>
+]]></content:encoded>
+							<wfw:commentRss>https://amitvoka.github.io/TestWordPress/2016/07/28/well-designed-site-a-good-brand-and-a-lot-of-content/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
 							</item>
 	</channel>
 </rss>

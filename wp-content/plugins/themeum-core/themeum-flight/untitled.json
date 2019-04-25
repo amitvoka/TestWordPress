@@ -1,0 +1,183 @@
+{
+  "out": {
+    //"arrival": "2017-02-17T09:10:00",
+    //"departure": "2017-02-16T21:20:00",
+    "duration": 740,
+    /*"destination": {
+      "code": "DEL",
+      "name": "New Delhi",
+      "type": "Airport"
+    },
+    "origin": {
+      "code": "DAC",
+      "name": "Dhaka",
+      "type": "Airport"
+    },*/
+    /*"carriers": [
+      {
+        "code": "AI",
+        "name": "Air India",
+        "displayCode": "",
+        "logo": "http:\/\/s1.apideeplink.com\/images\/airlines\/AI.png"
+      }
+    ],*/
+    /*"operatingCarriers": [
+      {
+        "code": "AI",
+        "name": "Air India",
+        "displayCode": "",
+        "logo": "http:\/\/s1.apideeplink.com\/images\/airlines\/AI.png"
+      }
+    ],*/
+    /*"segments": [
+      {
+        "arrival": "2017-02-16T21:50:00",
+        "departure": "2017-02-16T21:20:00",
+        "carrier": {
+          "code": "AI",
+          "name": "Air India",
+          "displayCode": "",
+          "logo": "http:\/\/s1.apideeplink.com\/images\/airlines\/AI.png"
+        },
+        "duration": 60,
+        "number": "229",
+        "destination": {
+          "code": "CCU",
+          "name": "Kolkata",
+          "type": "Airport"
+        },
+        "origin": {
+          "code": "DAC",
+          "name": "Dhaka",
+          "type": "Airport"
+        }
+      },
+      {
+        "arrival": "2017-02-17T09:10:00",
+        "departure": "2017-02-17T07:00:00",
+        "carrier": {
+          "code": "AI",
+          "name": "Air India",
+          "displayCode": "",
+          "logo": "http:\/\/s1.apideeplink.com\/images\/airlines\/AI.png"
+        },
+        "duration": 130,
+        "number": "763",
+        "destination": {
+          "code": "DEL",
+          "name": "New Delhi",
+          "type": "Airport"
+        },
+        "origin": {
+          "code": "CCU",
+          "name": "Kolkata",
+          "type": "Airport"
+        }
+      }
+    ],*/
+    /*"stops": [
+      {
+        "code": "CCU",
+        "name": "Kolkata",
+        "type": "Airport"
+      }
+    ]*/
+  },
+  /*"in": {
+    "arrival": "2017-02-20T20:20:00",
+    "departure": "2017-02-20T14:25:00",
+    "duration": 325,
+    "destination": {
+      "code": "DAC",
+      "name": "Dhaka",
+      "type": "Airport"
+    },
+    "origin": {
+      "code": "DEL",
+      "name": "New Delhi",
+      "type": "Airport"
+    },
+    "carriers": [
+      {
+        "code": "AI",
+        "name": "Air India",
+        "displayCode": "",
+        "logo": "http:\/\/s1.apideeplink.com\/images\/airlines\/AI.png"
+      }
+    ],
+    "operatingCarriers": [
+      {
+        "code": "AI",
+        "name": "Air India",
+        "displayCode": "",
+        "logo": "http:\/\/s1.apideeplink.com\/images\/airlines\/AI.png"
+      }
+    ],
+    "segments": [
+      {
+        "arrival": "2017-02-20T16:35:00",
+        "departure": "2017-02-20T14:25:00",
+        "carrier": {
+          "code": "AI",
+          "name": "Air India",
+          "displayCode": "",
+          "logo": "http:\/\/s1.apideeplink.com\/images\/airlines\/AI.png"
+        },
+        "duration": 130,
+        "number": "20",
+        "destination": {
+          "code": "CCU",
+          "name": "Kolkata",
+          "type": "Airport"
+        },
+        "origin": {
+          "code": "DEL",
+          "name": "New Delhi",
+          "type": "Airport"
+        }
+      },
+      {
+        "arrival": "2017-02-20T20:20:00",
+        "departure": "2017-02-20T19:00:00",
+        "carrier": {
+          "code": "AI",
+          "name": "Air India",
+          "displayCode": "",
+          "logo": "http:\/\/s1.apideeplink.com\/images\/airlines\/AI.png"
+        },
+        "duration": 50,
+        "number": "230",
+        "destination": {
+          "code": "DAC",
+          "name": "Dhaka",
+          "type": "Airport"
+        },
+        "origin": {
+          "code": "CCU",
+          "name": "Kolkata",
+          "type": "Airport"
+        }
+      }
+    ],
+    "stops": [
+      {
+        "code": "CCU",
+        "name": "Kolkata",
+        "type": "Airport"
+      }
+    ]
+  },*/
+  "prices": [
+    {
+      "price": 282.18,
+      "link": "http:\/\/partners.api.skyscanner.net\/apiservices\/deeplink\/v2?_cje=J2D3sROi%2bjiy33n6iQQiNOImAvQyKZ1Tu42hIIwyBCkhhvekH4s%2f9i%2bjxsv1R1Z4&url=http%3a%2f%2fwww.apideeplink.com%2ftransport_deeplink%2f4.0%2fUS%2fen-us%2fUSD%2fvaya%2f2%2f10901.10957.2017-02-16%2c10957.10901.2017-02-20%2fair%2ftrava%2fflights%3fitinerary%3dflight%7c-32672%7c229%7c10901%7c2017-02-16T21%3a20%7c10401%7c2017-02-16T21%3a50%3bflight%7c-32672%7c763%7c10401%7c2017-02-17T07%3a00%7c10957%7c2017-02-17T09%3a10%2cflight%7c-32672%7c20%7c10957%7c2017-02-20T14%3a25%7c10401%7c2017-02-20T16%3a35%3bflight%7c-32672%7c230%7c10401%7c2017-02-20T19%3a00%7c10901%7c2017-02-20T20%3a20%26carriers%3d-32672%26passengers%3d1%26channel%3ddataapi%26cabin_class%3deconomy%26facilitated%3dfalse%26ticket_price%3d282.18%26is_npt%3dfalse%26is_multipart%3dfalse%26client_id%3dskyscanner_b2b%26request_id%3df2adaade-0353-489e-857e-b8ce6a5370c8%26deeplink_ids%3dap-southeast-1.prod_044d1ba7916f5bee1415ade129b17ed2%26commercial_filters%3dfalse%26q_datetime_utc%3d2017-01-23T06%3a33%3a46",
+      "agents": [
+        {
+          "name": "vayama",
+          "logo": "http:\/\/s1.apideeplink.com\/images\/websites\/vaya.png",
+          "type": "TravelAgent"
+        }
+      ]
+    }
+  ]
+}

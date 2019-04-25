@@ -1,2 +1,0 @@
-# TestWordPress
-TestWordPress

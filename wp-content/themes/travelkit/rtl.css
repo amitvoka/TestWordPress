@@ -1,0 +1,192 @@
+
+@import url('css/bootstrap-rtl.min.css');
+
+body{
+  direction: rtl;
+  unicode-bidi: embed;
+}
+
+
+/*==================================
+* ========== HomePage Five ============
+=======================================*/
+
+.topbar .topbar-contact >span {
+    margin-right: 0;
+    margin-left: 35px;
+}
+.header .social-share ul {
+    text-align: left;
+}
+.common-menu-wrap {
+    text-align: left;
+}
+.common-menu-wrap .nav>li.menu-item-has-children+.online-booking-button {
+    margin-right: 20px;
+    float: left;
+    margin-left: 0;
+}
+.social-share ul li {
+    margin-left: 0;
+    margin-right: 12px;
+}
+.common-menu-wrap .nav>li>a:after {
+    content: "[";
+}
+.common-menu-wrap .nav>li>a:before {
+    content: "]";
+}
+.footer-wrap .social-share {
+    text-align: left;
+}
+.common-menu-wrap .nav>li ul {
+    text-align: right;
+    right: 10px;
+}
+.common-menu-wrap .nav>li > ul::after {
+    right: 26px;
+    left: auto;
+}
+
+/* call to action */
+.atmosphere-content ul li span {
+    padding-right: 18px;
+}
+
+/* package list */
+.package-details-hotel .media.common-media-list img, .package-list-wrap>img, body:not(.single-post) article>.blog-details-img img, .package-list-wrap-v2 .package-img-wrap img, .package-list-wrap-v3 .package-img-wrap img, .package-details-video .tour-video img, .package-details-gallery img, .photos-gallery .item img {
+    -webkit-transform: translate3d(0px,0,40px); 
+    transform: translate3d(0px,0,40px);
+}
+.themeum-button .btn-primary{
+	margin: 0 0 0 15px !important;
+}
+.packagedetailin .pull-right{
+	float: left !important;
+}
+.package-sidebar ul li span {
+    float: right;
+}
+.package-details-choose ul i {
+    margin-right: 0;
+    margin-left: 20px;
+}
+.packagedetailin:before {
+    right: 15px;
+    left: 0;
+}
+.package-sidebar .need-help p i {
+    margin-left: 20px;
+    margin-right: 0;
+}
+.package-details-itinerary .common-media-list .pull-left{
+	float: right !important;
+    padding-left: 25px;
+    padding-right: 0;
+    margin: 0;
+}
+.package-details-guide .common-media-list .pull-left{
+	float: right !important;
+    padding-left: 25px;
+    padding-right: 0;
+    margin: 0;
+}
+.package-details-hotel .common-media-list .pull-left{
+	float: right !important;
+    margin-left: 25px;
+    margin-right: 0 !important;
+}
+.thm-tk-search .thm-tk-search-nav ul li a span {
+    padding-right: 17px;
+    padding-left: 0;
+}
+
+/* vehicle */
+.tour-video .title {
+    right: 0;
+    left: auto;
+}
+.vehicle-schedule .table>tbody>tr>th, .vehicle-schedule .table>tbody>tr>td {
+    text-align: right;
+}
+
+/* Package Location */
+.owl-item.active.last-owl-active-item+div+div .thm-feature-carosuel-info {
+    right: -190px;
+    left: 0;
+}
+
+/* Blog Page */
+.widget.widget_search .btn-search {
+    left: 0;
+    right: auto;
+}
+.blog-post-meta li {
+    margin-left: 15px;
+    margin-right: 0
+}
+/* About Page */
+.no-padding{
+	padding: 0;
+}
+.mc4wp-form-fields input[type="email"] {
+    float: right;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.mc4wp-form-fields input[type=submit] {
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    margin-right: -4px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+.bg-contact input[type=text], input[type="email"], textarea {
+    text-align: right;
+}
+.contact-submit input[type=submit] {
+    float: right;
+}
+.countdown-section:not(:last-child):after {
+    right: auto;
+    left: -58px;
+}
+
+/* Footer */
+.bottom-widget .contact-info i {
+    margin-left: 15px;
+    margin-right: 0;
+}
+
+.package-search-wrapper .thm-tk-search{
+	margin-top: -219px;
+}
+
+.package-search-wrapper-v2 .thm-tk-search{
+	margin-top: 0px;
+}
+.thm-border {
+    position: relative;
+}
+
+.wpcf7-form{
+    text-align: right;
+}
+/*==================================
+* ======= Responsive Issue ===========
+=======================================*/
+
+@media (min-width: 320px) and (max-width: 767px) {
+	.header.header-borderimage .navbar-toggle, .header.header-solid .navbar-toggle {
+	    padding: 0;
+	    text-align: left;
+	    width: 56px;
+	}
+	#mobile-menu ul li span.menu-toggler {
+	    left: 0;
+	    right: auto;
+	}
+	.menu-toggler .fa-angle-right:before {
+	    content: "\f104";
+	}
+}
